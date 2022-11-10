@@ -11,11 +11,11 @@ Perversely, we scientists continue to make gatekeeping the overriding purpose of
 
 In this article I will detail why gatekeeping what gets published is antithetical to protecting scientific integrity, examine what we can learn from the integrity protections in other social systems for establishing shared beliefs, and propose how we might apply those lessons to make peer review better serve science.
 
-## Peer review for gatekeeping harms science and scientists
+## Peer reviewing to gatekeep harms science and scientists
 
 There are many ways using peer review to rank research, and determine which research is interesting enough to publish, harms scientific writing and causes science to mislead ourselves and others.
 
-**Gatekeeping biases the body of published results**. Submissions that confirm the hopes and beliefs of reviewers are more likely to be accepted than those that defy reviewers' expectations or dash their hopes. Among the many consequences is the potential for false discovery, especially when when peer review committees deem null results insufficiently interesting to publish. If twenty research teams test an attractive but ineffective intervention, we can expect 19 teams to find no significant difference ($p>0.05$) and fail to publish. We can expect one of twenty to find specious support the attractive-but-false hypothesis that the intervention is effective—and get published.
+**Gatekeeping biases the body of published results**. Submissions that confirm the hopes and beliefs of reviewers are more likely to be accepted than those that defy reviewers' expectations or dash their hopes. Among the many consequences is the potential for false discovery, especially when when peer review committees deem null results insufficiently interesting to publish. If twenty research teams test an attractive but ineffective intervention, we can expect 19 teams to find no significant difference (p>0.05) and fail to publish. We can expect one of twenty to find specious support the attractive-but-false hypothesis that the intervention is effective—and get published.
 
 **Favoring interesting research causes authors to write less scientifically**. It inspires authors to elide mundane details of experimental designs that might bore reviewers, even if those details would be needed to replicate their experiments. It provokes them to highlight experiments or tests that yielded a statistically significant or novel result and dedicate less space to those that reviewers will find less interesting. It tempts authors to deceive others, and even themselves, into believing that hypothesis tests they conducted on data they found interesting were planned before they had seen the data. It motivates authors to aggrandize their research to look more important. Many publications even explicitly ask that authors go beyond factual reporting of results to speculate about their research's impact and importance.
 
@@ -49,7 +49,7 @@ Without alternatives to gated peer review, we each must choose between shirking 
 
 <!-- ### Part 2. Call to Action -->
 
-## Learning from other systems for establishing shared beliefs
+## We can learn from other systems for establishing shared beliefs
 
 Peer review is part of a larger system of rituals that scientists use to build consensus around beliefs. In revaluating peer review, it is worth stepping back to evaluate how other systems establish consensus beliefs.
 
