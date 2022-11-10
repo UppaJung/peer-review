@@ -48,7 +48,7 @@ Without alternatives to gated peer review, we each must choose between shirking 
 
 <!-- ### Part 2. Call to Action -->
 
-## Other systems for establishing shared beliefs
+## Learning from other systems for establishing shared beliefs
 
 Peer review is part of a larger system of rituals that scientists use to build consensus around beliefs. In revaluating peer review, it is worth stepping back to evaluate how other systems establish consensus beliefs.
 
@@ -64,7 +64,7 @@ For a model of how we might prevent research from misleading without gatekeeping
 
 The model of investigative journalism is *elucidative*: it informs the audience about observed disagreements rather than declaring the winner.
 
-## Like scientists, peer review should investigate and elucidate
+## Peer review need only investigate and elucidate
 
 Our practice of submitting research to publications that use peer review for gatekeeping, and reviewing for these publications, demands that we scientists be investigators, prosecutors, and jurors. The latter two roles should give us pause. If science is to be objective and credible, we must be investigators first.
 
@@ -100,11 +100,11 @@ Under the elucidative model, we could even submit our experimental methodology f
 
 As consumers of research, we might even demand more control over what interests us, such by getting express what we want to see presented at conferences so that scheduling algorithms can be optimized to *our* collective interests: allocating the largest spaces to the presentations that more of us want to see and the more intimate spaces to those with smaller audiences. (If there is not enough interest for a work to be allocated presentation space, the authors will likely have time for one-on-one discussions with those of us who want to know more about their work.)
 
-**Those who stand to lose** by the adoption of elucidative peer review are the journals and conferences who use the veneer of scientific integrity as a pretense for employing (if the word applies for unpaid labor) scientists to maintain their prestigious brands. They are the churches and temples whose survival depends on our perverse willingness to collectively torture ourselves perpetuating an anachronistic bloodletting ritual. Most are willing because they see no alternative.
+**Those who stand to lose** by the adoption of elucidative peer review are not scientists or the public we serve, but the journals and conferences who use the veneer of scientific integrity as a pretense for employing (if the word applies for unpaid labor) scientists to maintain their prestigious brands. They are the churches and temples whose survival depends on our perverse willingness to collectively torture ourselves perpetuating an anachronistic bloodletting ritual. Their near monopoly over the distribution of scientific credibility gives us no alternative but to participate.
 
-With access to elucidative peer review, and the ability to establish credibility with an audience without appealing to prestigious publications, we might see through this illusion of necessity. Without this illusion, journals and conferences could no longer extract rents for the prestige we give them through our allegiance.
+By allowing us to establish credibility with our audience independent of seeking prestige from publications, elucidative peer review can break this illusion of necessity.
 
-The reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.  As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, we must recognize that these masters do not serve us, but enslave us.
+As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, we must recognize that these masters do not serve us, but enslave us. The reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.
 
 <!-- ## Moving forward -->
 
