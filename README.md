@@ -1,4 +1,4 @@
-## Peer Review as we Say, Not as we Do
+# Peer Review as we Say, Not as we Do
 
 We scientists say we practice peer review to protect the scientific integrity of research: employing objective experts to identify its flaws, evaluate its credibility, and ensure it does not confuse or mislead. Since we have convinced the press and public that peer review is a signal that research is credible, we *should* make paramount the goal of preventing research from misleading.
 
@@ -11,7 +11,7 @@ Perversely, we scientists continue to make gatekeeping the overriding purpose of
 
 In this article I will detail why gatekeeping what gets published is antithetical to protecting scientific integrity, examine what we can learn from the integrity protections in other social systems for establishing shared beliefs, and propose how we might apply those lessons to make peer review better serve science.
 
-#### Peer review for gatekeeping harms science and scientists
+## Peer review for gatekeeping harms science and scientists
 There are many ways using peer review to rank research, and determine which research is interesting enough to publish, harms scientific writing and causes science to mislead ourselves and others.
 
 **Gatekeeping biases the body of published results**. Submissions that confirm the hopes and beliefs of reviewers are more likely to be accepted than those that defy reviewers' expectations or dash their hopes. Among the many consequences is the potential for false discovery, especially when when peer review committees deem null results insufficiently interesting to publish. If twenty research teams test an attractive but ineffective intervention, we can expect 19 teams to find no significant difference ($p>0.05$) and fail to publish. We can expect one of twenty to find specious support the attractive-but-false hypothesis that the intervention is effective—and get published.
@@ -28,7 +28,7 @@ There are many ways using peer review to rank research, and determine which rese
 
 <!-- --- -->
 <!-- **Co-opting peer review to rank research has broader harms.** -->
-<!-- #### 2. Gatekeeping research is harmful to scientists and science itself -->
+<!-- ## 2. Gatekeeping research is harmful to scientists and science itself -->
 
 **Peer reviewing for gatekeeping causes broader harms to science**.
 
@@ -48,7 +48,7 @@ Without alternatives to gated peer review, we each must choose between shirking 
 
 <!-- ### Part 2. Call to Action -->
 
-#### Other systems for establishing shared beliefs
+## Other systems for establishing shared beliefs
 
 Peer review is part of a larger system of rituals that scientists use to build consensus around beliefs. In revaluating peer review, it is worth stepping back to evaluate how other systems establish consensus beliefs.
 
@@ -64,7 +64,7 @@ For a model of how we might prevent research from misleading without gatekeeping
 
 The model of investigative journalism is *elucidative*: it informs the audience about observed disagreements rather than declaring the winner.
 
-#### Like scientists, peer review should investigate and elucidate
+## Like scientists, peer review should investigate and elucidate
 
 Our practice of submitting research to publications that use peer review for gatekeeping, and reviewing for these publications, demands that we scientists be investigators, prosecutors, and jurors. The latter two roles should give us pause. If science is to be objective and credible, we must be investigators first.
 
@@ -84,7 +84,7 @@ Elucidative peer review doesn't reach final conclusions because science takes a 
 
 <!-- Should authors want to publish a revision that is newer than the last version a reviewer addressed, they must make that prior version available as well. This allows their audience to see what content has changed since that reviewer reviewed the work. -->
 
-#### Elucidative peer review is better for us all
+## Elucidative peer review is better for us all
 
 <!-- Investigate, report, conclude. -->
 
@@ -106,9 +106,9 @@ With access to elucidative peer review, and the ability to establish credibility
 
 The reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.  As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, we must recognize that these masters do not serve us, but enslave us.
 
-<!-- #### Moving forward -->
+<!-- ## Moving forward -->
 
-<!-- #### Excising the vestiges of ranking
+<!-- ## Excising the vestiges of ranking
 
 Without the pretense of protecting scientific integrity, journals are effectively awards committees that endow prestige onto work within their field or subfield. Those who like awards committees and feel they serve the community can contributing to them. The rest of us should feel no obligation.
 
