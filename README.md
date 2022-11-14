@@ -85,25 +85,23 @@ Elucidative peer review doesn't reach final conclusions because science takes a 
 
 <!-- Should authors want to publish a revision that is newer than the last version a reviewer addressed, they must make that prior version available as well. This allows their audience to see what content has changed since that reviewer reviewed the work. -->
 
-## Elucidative peer review is better for us all
+## Elucidative peer review is better for scientists and those we serve
 
 <!-- Investigate, report, conclude. -->
 
-Elucidative peer review had advantages over prescriptive review whether we are authoring, reviewing, or consuming research.
+Adopting elucidative peer review benefits us whether we are authoring, reviewing, or consuming research.
 
-**As reviewers**, elucidative peer review allows us to serve science without being complicit in ranking and gatekeeping. It gives our reviews a higher purpose and broader audience. It also gives lightens our reviewing workloads, as authors need not resubmit their work repeatedly in search of reviewers who consider their work interesting enough to publish—each work needs only one set of reviewers.
+**As reviewers**, participating in elucidative peer review allows us to serve science without being complicit in ranking and gatekeeping. The elucidative model gives our reviews a higher purpose and broader audience. It also lightens our reviewing workloads, as authors need not resubmit their work repeatedly in search of reviewers who consider their work interesting enough to publish—each work needs only one set of reviewers.
 
-**As authors**, when we write work that will undergo elucidative peer review, we can write for our audience and not for reviewers, and prioritize scientific content over reviewers' subjective interests. We can expect feedback to be more constructive and timely. We need only wait for reviewers to read and respond to our work to get feedback, and we need only wait until we are satisfied that we have sufficiently addressed reviewers concerns to publish it.
+**As authors**, writing work for elucidative peer review allows us to address the needs of our intended audience, prioritizing scientific content over reviewers' subjective interests. We can expect feedback to be more constructive and timely. We need only wait for reviewers to read and respond to our work to get feedback, and we need only wait until we are satisfied that we have sufficiently addressed reviewers concerns to publish it.
 
 Under the elucidative model, we could even submit our experimental methodology for review, using reviewers' initial feedback to improve those experimental designs, *prior* to running experiments and reporting results. We could then seek further feedback after completing the research. Currently, peer review only reveals experimental design flaws after we have spent all the resources needed to run an experiment, and often after key co-authors have graduated or started other jobs.
 
-**As consumers** of research, we benefit from access to objective insight into the credibility of research and faster access to research, since publication is no longer gated by convincing a committee the work is interesting. We regain the autonomy to choose what interests us, no longer in the hands of peer review committees biased in favor of seniority.
+**As consumers** of research, we benefit from objective insight into the credibility of research, written to be accessible to non-experts. When authors opt for elucidative peer review, we get access to their research sooner, as we do not need to wait for authors to submit and re-submit their work until a peer review committee declares it interesting.
 
-As consumers of research, we might even demand more control over what interests us, such by getting express what we want to see presented at conferences so that scheduling algorithms can be optimized to *our* collective interests: allocating the largest spaces to the presentations that more of us want to see and the more intimate spaces to those with smaller audiences. (If there is not enough interest for a work to be allocated presentation space, the authors will likely have time for one-on-one discussions with those of us who want to know more about their work.)
+We should also demand more control over the decisions that guide our access to research. For example, for conferences we might submit which prospective presentations we would want to attend so that presentation slots and rooms can be allocated to the audience based on their interest, rather than reviewers' expectations of our interest.
 
-**Those who stand to lose** by the adoption of elucidative peer review are not scientists or the public we serve, but the journals and conferences who use the veneer of scientific integrity as a pretense for employing (if the word applies for unpaid labor) scientists to maintain their prestigious brands. They are the churches and temples whose survival depends on our perverse willingness to collectively torture ourselves perpetuating an anachronistic bloodletting ritual. Their near monopoly over the distribution of scientific credibility appears to give us no alternative but to participate.
-
-By allowing us to establish credibility with our audience independent of seeking prestige from publications, elucidative peer review can break this illusion of necessity.
+**Those who stand to lose** by the adoption of elucidative peer review are not scientists or the public we serve, but the journals and conferences which use the veneer of scientific integrity for prescriptive peer review. They stand to lose their near monopoly on the distribution of scientific approval that makes us want to submit our work to them. They stand to lose their near monopoly on reviewing service that makes us volunteer to gatekeep in service of their brands. They are the churches and temples whose survival depends on our perverse willingness to perpetuate an anachronistic bloodletting ritual---to collectively torture ourselves with negative feedback. Their near monopolies over authors and reviewing service present the illusion that we have no alternative, and elucidative peer review could shatter that illusion.
 
 As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, we must recognize that these masters do not serve us, but enslave us. The reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.
 
