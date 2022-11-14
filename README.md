@@ -11,7 +11,7 @@ Perversely, we scientists continue to practice exclusionary peer review, limitin
 
 In this article I will detail why exclusionary peer review is antithetical to protecting scientific integrity, examine what we can learn from the integrity protections in other social systems for establishing shared beliefs, and propose how we might apply those lessons to make peer review better serve science.
 
-## Exclusionary peer reviewing harms science and scientists
+## Exclusionary peer review harms science and scientists
 
 There are many ways using peer review to rank research, and determine which research is interesting enough to publish, harms scientific writing and causes science to mislead ourselves and others.
 
