@@ -107,7 +107,7 @@ They stand to lose their near monopoly on the distribution of scientific credibi
 
 We may feel some regret hastening the demise of the journals whose acceptances marked important steps up in our rankings in science's stratification system, and whose peer review committees provided us with comradery. We should recognize that it is common the victims in abusive relationships to become dependent on the approval of our abusers, and to even want to protect them.
 
-But exclusionary peer review and the institutions that perpetuate it do not serve science. To preserve the credibility of the scientific endeavor, we must reject the notion that it does.
+But exclusionary peer review and the institutions that perpetuate it do not serve science. To preserve the credibility of the scientific endeavor, we must reject the notion that they do.
 
 <!-- ## Moving forward -->
 
