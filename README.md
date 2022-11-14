@@ -103,11 +103,11 @@ We should also demand more control over the decisions that guide our access to r
 
 **Those who stand to lose** by the adoption of elucidative peer review are not scientists or the public we serve, but the journals and conferences which use the veneer of scientific integrity to perpetuate exclusionary peer review in service of their brands. They are the churches and temples whose survival has depended on our perverse willingness to perpetuate an anachronistic bloodletting ritual—to collectively torture ourselves with our own negative feedback. 
 
-They stand to lose their near monopoly on the distribution of scientific credibility that makes us seek their approval. They stand to lose their near monopoly on reviewing service that makes us volunteer to serve them. Without the illusion that exclusionary peer review has no alternative, our fealty to them may waver.
+They stand to lose their near monopoly on the distribution of scientific credibility that makes us seek their approval, and their near monopoly on reviewing service.
 
-We may feel some regret hastening the demise of the journals whose acceptances marked important steps up in our rankings in science's stratification system. It is common for the victims in abusive relationships often find joy in the brief approval of their abusers, and to even feel obligated to protect their abusers.
+We may feel some regret hastening the demise of the journals whose acceptances marked important steps up in our rankings in science's stratification system, and whose peer review committees provided us with comradery. We should recognize that it is common the victims in abusive relationships to become dependent on the approval of our abusers, and to even want to protect them.
 
-However, the reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.
+But exclusionary peer review and the institutions that perpetuate it do not serve science. To preserve the credibility of the scientific endeavor, we must reject the notion that it does.
 
 <!-- ## Moving forward -->
 
