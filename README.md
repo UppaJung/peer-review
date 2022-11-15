@@ -114,7 +114,7 @@ But exclusionary peer review and the institutions that perpetuate it do not serv
 
 ---
 
-Stuart Schechter wrote this article with the inspiration and help of many (some noted [here](./Acknowledgements.md)). To those respond to his critiques of scientific practices by calling him a mad scientist, he warns that you have only seem him mildly aggrieved. You can follow him at [@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist).
+Stuart Schechter wrote this article with the inspiration and help of many (some noted [here](./Acknowledgements.md)). Those who might dismiss Stuart's arguments by concluding that he is sort of mad scientist would be wise to consider an alternate hypothesis, that they may have only seen him mildly aggrieved. You can follow him at [@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist).
 
 <!-- ## Moving forward -->
 
