@@ -1,4 +1,4 @@
-# Peer Review Should Elucidate, not Exclude.
+# Peer Review Should *Elucidate*, not *Exclude*.
 
 We scientists say we practice peer review to protect the scientific integrity of research: employing objective experts to identify its flaws, evaluate its credibility, and ensure that it does not confuse or mislead. Since we have convinced the press and public that peer review is a signal that research is credible, we *should* make paramount the goal of preventing research from misleading.
 
