@@ -25,6 +25,7 @@ Reviewer C wrote “*I'd like to read the authors' thoughts about the findings a
 
 <span id="procedural-television-dramas"></span>
 #### Regarding “*procedural television dramas*”
-The long-running procedural television drama [Law and Order](
-https://en.wikipedia.org/wiki/Law_%26_Order) opened each episode with the narration:
+
+The justice system's clear separation of duties between investigation and advocacy (prosecution) has been drilled into the public's awareness for over two decades by the ubiquitous procedural television drama [Law and Order](
+https://en.wikipedia.org/wiki/Law_%26_Order) and its spin-offs. Each episode starts with following introductory narration:
 >In the criminal justice system, the people are represented by two separate yet equally important groups: the police who investigate crime, and the district attorneys who prosecute the offenders. These are their stories.
