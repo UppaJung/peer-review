@@ -9,10 +9,12 @@ Perversely, we scientists continue to practice exclusionary peer review even tho
 
 There are myriad ways in which exclusionary peer review undermines scientific writing and scientific integrity, especially when research is excluded for being subjectively uninteresting. So when we say we conduct peer review to prevent scientists from misleading ourselves and the public, we our misrepresenting our actual practice of peer review in a way that misleads ourselves and the public. We should aspire to peer review for the purposes we say we do, not as we actually do.
 
+The alternative to exclusionary peer review is for the scientific experts who investigate a submitted work *not* to decide whether it should be published, but to instead elucidate their findings for the work's audience. Their reviews should ensure that when the work is published, its audience is not mislead due to being less knowledgeable than the experts, or unaware of limitations that experts would be aware of. Whereas exclusionary peer review demands that scientists be judges and arbiters fo fashion, *elucidative* peer review only requires scientists do science: investigating and informing others of what we learned.
+
 In this article, I will
- 1. detail why using *exclusionary* peer review to vet scientific research makes writing less scientific, is antithetical to scientific integrity, and is harmful to those who practice science;
+ 1. detail many of the ways that using *exclusionary* peer review to vet scientific research makes writing less scientific, is antithetical to scientific integrity, and is harmful to those who practice science;
  2. examine what we can learn from the integrity protections in other social systems for evaluating hypotheses and establishing shared beliefs; and
- 3. argue that purely *elucidative* peer review can better serve scientists and scientific integrity.
+ 3. explain how *elucidative* peer review can better serve scientists and our audience.
 
 ## Exclusionary peer review harms science and scientists
 
