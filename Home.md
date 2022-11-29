@@ -1,0 +1,3 @@
+What is *Elucidative* Peer Review?
+
+In *elucidative* peer review, the expert reviewer's job is to share insights into a research work that might not be obvious to non-experts or less casual readers, to ensure that others are not mislead by the work or unaware of its limitations. Unlike *exclusionary* peer review, reviewers do decide that the paper be accepted or rejected for publication, and so their reviews need not advocate for an outcome to convince fellow reviewers (to try to reach agreement for that outcome) or to authors (to justify the decision). Instead, reviews are written for the audience of the research, to be shared with that audience alongside the research when it is published.
