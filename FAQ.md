@@ -1,5 +1,17 @@
 # Answers to common/likely questions
 
+<a id="Why-not-conduct-exclusionary-peer-review-evaluating-only-scientific-integrity"></a>
+#### Why not conduct exclusionary peer review evaluating only scientific integrity?
+
+Or, as some might ask,
+> If some research is clearly wrong, shouldn't we still have the opportunity to reject it?
+
+It is tempting to preserve the ability to reject work that there is a strong consensus is wrong. Even when reviews make it abundantly clear that research is wrong, rejection could provide an extra signal to those who don't read the reviews.
+
+However, when reviewers have to make a decision to accept or reject research, and start favoring one of those two options during the review process, they may consciously or subconsciously start biasing their collection and presentation of evidence to support the position they expect their review to take. Only by eliminating the decision entirely can we remove this bias.
+
+Also, the choice to ‘*reject*’ research implies that there is also a decision to ‘*accept*’ it. Whenever we ‘*accept*’ research we risk that this act will be perceived as scientific consensus on correctness, when in fact it would only mean that none of a small number of experts found sufficient reason to reject it. Science takes a long time to build consensus around our confidence in results. When the public prematurely concludes finality and correctness, then sees conflicting results later also endorsed with an ‘*accept*’, they may lose faith in science.
+
 #### What institutions(s) should run elucidative peer review?
 
 Elucidative peer review should be run by an institution that is competent, has incentives aligned with the goals of science, and earns the trust of scientists and the public.  The correct institution may vary by field or subfield, as different fields and subfields are served by different institutions.
