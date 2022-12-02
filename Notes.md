@@ -1,11 +1,16 @@
 # Notes
 
-<span id="*to-rank-our-fellow-scientists-relative-to-each-other*"></span>
-#### Regarding “what we are actually doing when we peer review research is…to rank our fellow scientists relative to each other”
+<span id="social-contract"></span>
+#### Regarding “*the social contract of elucidative peer review*’"
+Peer review committees may choose to formalize this social contract by requiring authors to commit to linking their published paper to the reviews.
+<!-- Is this contractual upon requesting reviews? --> 
+
+<span id="to-rank-our-fellow-scientists-relative-to-each-other"></span>
+#### Regarding “*what we are actually doing when we peer review research is…to rank our fellow scientists relative to each other*”
 Scientists' ability to hurl research over the gates of exclusionary peer review determines our career trajectory in science's stratification system. We signal our success on our curriculum vitaes by listing each paper with the brand of the journal or conference that accepted it.
 
-<span id="*replicability*"></span>
-#### Regarding “half of papers accepted by one review were rejected by a parallel review”
+<span id="replicability"></span>
+#### Regarding “*half of papers accepted by one review were rejected by a parallel review*”
 
 Past attempts to test whether peer include the [The NeurIPS 2021 Consistency Experiment](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/), and its 2014 predecessor, which duplicated the review process for a fraction of papers. Per the 2021 report:
 
