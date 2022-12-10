@@ -37,6 +37,7 @@ This article is agnostic to whether or what reviewers get paid.
 #### Are authors and reviewers anonymous?
 Elucidative peer review can be used with anonymous or named authors, and with anonymous, pseudonymous, or named reviewers. Naming authors prior to reviewers' initial review may make them less objective. Reviewers may be more comfortable being named by default given that they don't have to fear being blamed for rejecting a paper.
 
+<a id="open-peer-review"></a>
 #### How is what you describe as elucidative peer review different from [open peer review](https://en.wikipedia.org/wiki/Open_peer_review)?
 
 The term ‘[open peer review](https://en.wikipedia.org/wiki/Open_peer_review)’ encompasses a range of practices including exclusionary peer review where reviews of only accepted papers are released to the public.

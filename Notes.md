@@ -1,11 +1,26 @@
 # Notes
 
+
+<span id="faster"></span>
+#### Elucidative peer review is faster
+
+
+When authors opt for elucidative peer review, we in their audience get access to their research sooner—we we do not need to wait for authors to submit and re-submit their work until finding a peer review committee that consider it worthy of publication.
+
+<span id="research-audience"></span>
+#### Elucidative peer review allows authors to write for their audience
+
+TO DO
+
+<span id="review-audience"></span>
+
+
 <span id="social-contract"></span>
 #### Regarding “*the social contract of elucidative peer review*’"
 Peer review committees may choose to formalize this social contract by requiring authors to commit to linking their published paper to the reviews.
 <!-- Is this contractual upon requesting reviews? --> 
 
-<span id="to-rank-our-fellow-scientists-relative-to-each-other"></span>
+<span id="to-rank-each-other"></span>
 #### Regarding “*what we are actually doing when we peer review research is…to rank our fellow scientists relative to each other*”
 Scientists' ability to hurl research over the gates of exclusionary peer review determines our career trajectory in science's stratification system. We signal our success on our curriculum vitaes by listing each paper with the brand of the journal or conference that accepted it.
 
