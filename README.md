@@ -1,44 +1,34 @@
 # Peer Review Should *Elucidate*, not *Exclude*.
 
-The scientific practice of *exclusionary* peer review, in which we decide which of our peers' work to publish and which to reject, is unfixable. We can and should be replace it.
+When we practice of *exclusionary* peer review, in which we decide which of our peers' work to publish and which to reject, we fail to serve peer review's purported purpose of protecting scientific integrity.
 
-For one, it fails to serving its supposedly-intended purpose: protecting scientific integrity of research. We actually use it to rank research relative to competing work and, by extension, [to rank our fellow scientists](to-rank-each-other). The peer review committees we serve on are run by journals and conferences, each of which has its own brand, and which signal brand prestige by *excluding* a significant portion of submissions. Increasing exclusivity necessitates adding criteria beyond scientific integrity, which inevitably conflict with integrity and subvert it. We're also not good at it. Our faith in our reliability as judges is contradicted by evidence from well-designed experiments, in which [half of papers accepted by one review were rejected by a parallel review](./Notes.md#replicability). 
+We fail to protect scientific integrity, in part, because we currently use peer review to rank research relative to competing work and, by extension, [to rank our fellow scientists](#to-rank-each-other). The peer review committees we serve on are run by journals and conferences, each of which has its own brand, and which use exclusivity to signal brand prestige. Exclusivity necessitates adding criteria beyond scientific integrity, and those criteria inevitably conflict with integrity and subvert it.
 
-Yet, even if were were to focus exclusionary peer review entirely on scientific integrity, restricting what others can publish does not serve science. Limiting publications may have been necessary financial constraints on how much could be published: when research was printed on paper, traveled by mail, and took up space on shelves. As publishing costs approached zero and the information available to us grew exponentially, we acquired new tools to filter the deluge of information competing for our attention, such as search engines and social sharing. We no longer need peer reviewers to be arbiters of fashion, curating which research is worthy of modeling on science's most exclusive runways and which to leave hanging backstage. 
+We have also failed to prove we are reliable judges of integrity, or any acceptance criteria. While there's little evidence available, in the few well-designed experiments that test exclusionary peer review, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability). 
 
-We should instead conduct peer review, and address scientific integrity, *without* asserting power over what others can and cannot publish. We should perform *elucidative* peer review: examining our peers' work and detailing our findings for their eventual audience, especially as they relate to the work's integrity. We can use our words to protect the audience from being mislead, rather than censoring that which we fear might mislead them.
+Even if we were to limit the criteria used by *exclusionary* peer review were to those of scientific integrity, compressing the many dimensions of integrity into a boolean is perilously lossy. Acceptances are inevitably misconstrued as endorsements, though many mask important concerns that were outweighed by a work's strength. Rejections needed to prevent one result from misleading may suppress other valuable results in the same work. Further, rejections conceal authors' missteps from those who learn from them and others who might might study scientific missteps.
 
-<!-- Perhaps for the slide version of this talk "Runways are an odd slightly-raised surface for scientists to choose to die on." or "When I ask fellow scientists whether they really want to be arbiters of fashion, I'm often surprised how many will choose a runway as the hill they're willing to die on." -->
+If we use peer review to exclude works in which missteps and limitations are apparent, we discourage authors from reporting those missteps. If we allow peer review to accept work with missteps and limitations, so long as they are apparent to the audience, then peer review need never be *exclusionary*.
 
-In this article, I will explain why elucidative peer review benefits us all whether we are consuming research, authoring research, reviewing research, as well as participation in science and broader trust in science.
+Instead, we can practice *elucidative* peer review, in which reviewers do not decide whether a work should be published. Rather, reviewers share insights for the work's audience, to ensure that audience is aware of the work's limitations and is not otherwise mislead by the work. *Elucidative* peer review obligates authors to share those reviews when publishing their work as "peer reviewed" (see [notes](./Notes.md#publishing-reviews) for details).
 
-## Background
+*Elucidative* peer review speeds the flow of scientific discourse. Reviewers can provide feedback faster, because they don't need to compare a work to other research competing for acceptances, or to discuss whether the work should be accepted with other reviewers[*](./The-Harms-of-Exclusionary-Peer-Reivew.md#delaying-the-spread-of-knowledge). Authors thus receive feedback, and can revise their work, while their [memories are fresher](./The-Harms-of-Exclusionary-Peer-Reivew.md#delays-disrupt-memory). If the same reviewers can review revisions, they can evaluate them more quickly. Authors do not need to slog through multiple rounds of rejections to publish their work as peer reviewed.
 
+<!-- We can publish whenever we have addressed reviewers' concerns to our satisfaction. (Whether reviewers or the audience are satisfied is for them to decide.) -->
 
-While we could reform peer review to exclude works only for reasons of scientific integrity, the function of limiting what can be published is now a vestigial. *Exclusionary* peer review was once necessary due to financial constraints on how much could be published: when research was printed on paper, traveled by mail, and took up space on shelves. As publishing costs approached zero and the information available to us grew exponentially, we acquired new tools to filter the deluge of information competing for our attention, such as search engines and social sharing. We no longer need peer reviewers to be arbiters of fashion, curating which research is worthy of modeling on science's most exclusive runways and which to leave hanging backstage. 
+<!-- So as to focus on the benefits of *elucidative* peer review, I document the [harms of *exclusionary* peer review]() separately and only allude to them here. I will explain why elucidative peer review benefits us all whether we are consuming research, authoring research, reviewing research, as well as participation in science and broader trust in science. -->
 
-
-
-<!-- 
-
-
-
- -->
 ## How we benefit, as authors, when publishing research
 
-The [social contract of elucidative peer review](./Notes.md#social-contract) requires us, as authors, to share the reviews our work receives with our audience when we publish it. If we want to publish a revision before the reviews are updated in response, or if reviewers are unwilling or unable to respond, we must also share the last version(s) reviewed by each reviewer, illuminating what we have changed since they last weighed in.
+<!-- <a id="faster"></a>*Elucidative* peer review is [faster than *exclusionary* peer review](./The-Harms-of-Exclusionary-Peer-Reivew.md#delaying-the-spread-of-knowledge). When we are ready to submit work, we do not need for a deadline when others will be submitting competing work, and reviewers' feedback need not be withheld until our work can be compared with others' work, or for reviewers' feedback compared with others' reviews. This means we can act on feedback sooner, while [our memories are fresher](./The-Harms-of-Exclusionary-Peer-Reivew.md#delays-disrupt-memory). We can publish whenever we have addressed reviewers' concerns to our satisfaction. (Whether reviewers or the audience are satisfied is for them to decide.) -->
 
-<a id="faster"></a>We can publish peer-reviewed research faster than we would have to if [we needed to wait for a common submission deadline, wait for reviewers to read a pool of research to rank, and then await their coordination to reach an outcome.](./The-Problems-of-Exclusionary-Peer-Reivew.md#delaying-the-spread-of-knowledge) We can get feedback from each reviewer the moment they are ready to share it, and we can publish whenever we are confident that we have convinced our audience that we have sufficiently addressed reviewers' concerns to our satisfaction. Receiving feedback faster means we can act on it sooner, while our memories of how we conducted our research and our familiarity with how we presented it are fresher in our mind, whereas [our memories will be further degraded if we must wait for feedback from exclusionary peer review](./The-Problems-of-Exclusionary-Peer-Reivew.md#delays-disrupt-memory).
+<a id="research-audience"></a>When preparing work for elucidative peer review, we have the latitude to write to best serve our audience. When we write to defend against rejection, we make our work [less readable](./The-Harms-of-Exclusionary-Peer-Reivew.md#audience).
 
-<a id="research-audience"></a>Preparing work for elucidative peer review allows us to write for our intended audience, prioritizing scientific content over reviewers' subjective interests. We can expect feedback to be more constructive and timely.
-We can write for to meet the needs of our intended general audience, not [to impress and placate the egos of potential experts reviewers as we do for exclusionary peer review](./The-Problems-of-Exclusionary-Peer-Reivew.md#we-write-for-reviewers-not-our-intended-audience). We don't have to make results look [more significant or impactful to get published](./The-Problems-of-Exclusionary-Peer-Reivew.md#FIXME).  We can include details of experimental design that are necessary for our research to be reproduced, but that reviewers might find uninteresting or tedious.
+<!-- as opposed to minimizing our risk of rejection. Defensive writing encourages us to fawn over tangentially-related  work written by likely reviewers from our subfield, regardless of that work's quality or true relevance; to dedicate paragraphs to promoting the importance of our work to reviewers whose interests took them to different subfields; and to bulk up citation counts to signal our domain expertise to all reviewers. -->
 
-Using elucidative peer review, we could even submit our experimental methodology for feedback, using reviewers' insights to improve those experimental designs *prior* to running experiments and reporting results. We could then seek further feedback after completing the research. Currently, peer review only reveals experimental design flaws after we have spent all the resources needed to run an experiment, and often after key co-authors have graduated or started other jobs.
+In aggregate, we can expect more constructive and positive feedback from *elucidative* peer review, because reviewers do not need to [concoct reasons to reject the majority of papers](./The-Harms-of-Exclusionary-Peer-Reivew.md/#negative-feedback).
 
-We get more positive feedback, because reviewers do not need to concoct reasons to reject papers, whereas [exclusionary peer review must reject some papers of sufficient scientific integrity](./The-Problems-of-Exclusionary-Peer-Reivew.md/#negative-feedback).
-
-We will still get negative feedback. We may disagree with those who review our work, as we do today. We may choose to rebut their concerns within the work or through separate commentary. As reviewers, we can assist authors by noting if we find others' reviews inaccurate or prejudicial. We may also weigh in even when not formally reviewing, either through our reviewing systems or through other means of public discourse. Elucidating disagreements amongst scientists gives our audience a more accurate and nuanced view of how science works than summarizing it into a single ‘*accept*’ or ‘*reject*’ decision.
-
+We will still get negative feedback, some of which we may disagree with. We will be obligated to share feedback with disagree with along with our work. We can, however, rebut feedback we disagree with, publish, and let the rest of the scientific community weigh in.
 
 ## How we benefit as reviewers of others' research
 
@@ -47,6 +37,16 @@ Whereas exclusionary peer review demands that scientists pass final judgements, 
 When reviewing, we can not only elucidate concerns to share with those who might learn about the work (as journalists are limited to), but we can attempt to persuade authors to revise their work to address those concerns. It is better for authors to eliminate our causes for concern, or disclose those concerns on their own, than for the audience to only learn about the concerns from our reviews. (When authors address our concerns, we can remove those concerns from our reviews or note if we are satisfied with authors' changes.)
 
 participating in elucidative peer review allows us to perform a service to authors, and to serve science more broadly, without being complicit in ranking and exclusion. Elucidative reviewing gives our reviews a higher purpose and broader audience than exclusionary reviewing. It also lightens our reviewing workloads, as authors need not resubmit their work repeatedly in search of reviewers who consider their work interesting enough to publish—each work needs only one set of reviewers.
+
+
+## How we benefit as consumers of research
+
+As consumers of research, elucidative peer review provides far more insight than learning only that a paper was accepted (or, for rejected papers, not even learning they ever existed). Like exclusionary [open peer review](FAQ.md#open-peer-review), we in the audience are privy to reviewers' feedback.
+
+When authors opt for elucidative peer review, we consumers get access to peer-reviewed research and that's [written for us](#research-audience), not other reviewers, and we get access to it [faster](./Notes.md#faster). When reviewers do not have to write their reviews to support a position (*accept* or *reject*), they can be more objective. When they don't have to convince other reviewers to join their position, they can direct their insights to us, the work's full audience, as opposed to other experts.
+
+We should also demand more control over the decisions that guide our access to research that interests us, rather than what others think we should find worth reading. For example, we could eschew conferences where an elite group of peer reviewers decide what which presentations we want to see, and instead opt for those that ask us which prospective presentations we would want to see and allocate speaker slots and lecture hall sizes to give the audience what we're actually interested in.
+
 
 #### We can free ourselves from outcome bias
 
@@ -60,13 +60,6 @@ Having countless exclusionary peer review committees of different strata also bu
 #### We don't have to participate in the culture of rejection
 
 
-## How we benefit as consumers of research
-
-As consumers of research, elucidative peer review provides far more insight than learning only that a paper was accepted (or, for rejected papers, not even learning they ever existed). Like exclusionary [open peer review](FAQ.md#open-peer-review), the audience is privy to reviewers' feedback.
-
-When authors opt for elucidative peer review, we consumers get access to peer-reviewed research and that's [written for us](#research-audience), not other reviewers, and we get access to it [faster](./Notes.md#faster). When reviewers do not have to write their reviews to support a position (*accept* or *reject*), they can be more objective. When they don't have to convince other reviewers to join their position, they can direct their insights to us, the work's full audience, as opposed to other experts.
-
-We should also demand more control over the decisions that guide our access to research that interests us, rather than what others think we should find worth reading. For example, we could eschew conferences where an elite group of peer reviewers decide what which presentations we want to see, and instead opt for those that ask us which prospective presentations we would want to see and allocate speaker slots and lecture hall sizes to give the audience what we're actually interested in.
 
 
 ## Benefits for science
@@ -81,7 +74,7 @@ We should also demand more control over the decisions that guide our access to r
 
 <!-- --- -->
 #### We will broaden and improve participation in science
-[biasing](./The-Problems-of-Exclusionary-Peer-Reivew.md#biasing-the-demographics-of-science)
+[biasing](./The-Harms-of-Exclusionary-Peer-Reivew.md#biasing-the-demographics-of-science)
 
 
 ---
