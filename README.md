@@ -1,72 +1,40 @@
 <!-- # Peer Review Should *Elucidate* not *Exclude*. -->
 <!-- # Rejecting Exclusionary Peer Review -->
-# Elucidative Peer Review: Abdicating the Power to Reject Others' Work
+<!-- # Power, Prestige, and Peer Review -->
+# Peer Review in Service to Science
 
-Peer review should advance science. It should promote and protect the integrity of scientific research by identifying missteps, errors, and other causes for concern that might otherwise go undetected or undisclosed. It should empower authors with others' knowledge and experience to make us better scientists and communicators.
+Scientific peer review should *advance* science. It should promote and protect the integrity of scientific research by identifying missteps, errors, and other causes for concern that might otherwise go undetected or undisclosed. It should empower authors with others' expertise and insights to make us better scientists and communicators.
 
-Alas, the ritual we currently call peer review often hinders science: it encourages practices that undermine scientific integrity; it delays and stifles scientific communication; and it destroys morale, causing many to feel powerless and quit science.
+But the rituals we call “peer review” often *hinder* science, not advance it.
 
  <!-- We practice exclusionary peer review because of the collective illusion that is is somehow necessary for science. -->
 
-The first and most pernicious flaw in how we currently conduct peer review is that we employ it to distribute status and prestige while we maintain the pretense of service to scientific integrity. The peer review committees we serve on are run by journals and conferences, most of which build brand cachet through exclusivity. Exclusivity, in turn, necessitates requiring some measure of ‘*significance*’ (importance) distinct from scientific integrity, which inevitably compete with integrity and [undermine](./The-Harms-of-Exclusionary-Peer-Reivew.md) it. When reviewing, we have the power to reject others work for lacking ‘*significance*’ despite little scientific evidence that we can wield that power reliably; in the few well-designed experiments that test peer review, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability).
-<!-- Our faith in a scientific ritual that lacks scientific evidence diminishes the credibility of the scientific endeavor. -->
+We often practice peer review to rank research for ‘*significance*’, and distribute prestige, under the pretense of protecting scientific integrity. We do this by submitting research to, and serving on, peer review committees run by journals and conferences that use exclusivity to build brand cachet. Exclusivity necessitates ‘*significance*’ criteria beyond scientific integrity, which inevitably competes with integrity and [undermines](./The-Harms-of-Exclusionary-Peer-Reivew.md) it. We practice these ‘scientific’ rituals despite little scientific evidence that we are reliable judges; in the few well-designed experiments testing review, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability). 
 
-However, even if we choose which works to accept and reject based on scientific integrity alone, this act of *exclusionary* peer review would still hinder science.
-<!-- abolished ‘*significance*’  alone is not enough, as some problems are inherent to *all* forms of *exclusionary* peer review, where reviewers have the power to decide whether a work is accepted for, or rejected from, publication. -->
+Yet, we could not objectively categorize works into *accepts* and *rejects*  even if scientific integrity were our only review criteria.
 
-Compressing a work's many dimensions of scientific integrity into a boolean ‘*accept*’ or ‘*reject*’ is lossy and perilous. Acceptances are inevitably misconstrued as endorsements, though accepted works are rarely without limitations and shortcomings that many readers will miss. Rejections conceal authors' missteps from those who might study or learn from them, making it harder for science to learn from our collective mistakes.
-<!-- Rejections imposed to censor one concerning element of a work may censor valuable results bundled into the same work.  -->
+There are many dimensions to scientific integrity, and compressing them into a boolean is lossy and perilous. Acceptances are inevitably misconstrued as endorsements, though accepted works are rarely without limitations and shortcomings that many readers will miss. Rejections censor valuable results for being bundled with those that raised reviewers' concerns. Rejections also conceal authors' missteps from those who might study or learn from them, making it harder for science to learn from our collective mistakes.
 
-Further, the power we hold over whether a work will published cannot help but bias how when we review it. Knowing that we are subject to [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), we must assume that the moment we start leaning toward an accept or reject outcome, we may subconsciously favor observations that support that outcome. We may subconsciously write reviews to support our belief that our preferred use of power is just.
+Further, holding power over whether a work will published cannot help but bias us as reviewers. Knowing that we are subject to [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), we must assume that, the moment we start leaning toward an accept or reject outcome, we may unknowingly favor observations that support that outcome. We may subconsciously suppress reporting facts that run counter to our supported outcome, and that would subvert the certainty that the outcome is just, as those facts create a dissonance with our views of ourselves as fair and just.
 
-The surest way to avoid being corrupted by the power is to abdicate it to perform the service of reviewing peers' work without the power to choose if, or where, that work will be published. We could still protect scientific integrity, by requiring that when authors do publish their work, they include the reviews they've received with it. We could then use our reviews to elucidate any missteps, errors, and other causes for concern we uncover to ensure they do not go undisclosed.
+We need to re-evaluate the very premise that we serve science by practicing *exclusionary* peer review, wielding the power to decide whether or where a work is published. The surest way to avoid the corrupting influence of power when reviewing others' work is to abdicate that power. The surest way to avoid the hazards of compressing a work's integrity into boolean *accepts* and *rejects* is not to do so—or at least not to do so under the pretense of serving science.
 
-In this *elucidative* peer review, the audience we would address in our reviews would not be those helping to decide whether to *reject* the work, but the audience of the work itself. When reviewing work so flawed that we would have previously been a *reject*, our reviews could convey that lack of credence to that audience (should authors still choose to publish). If a work is particularly meticulous, we could explain to the audience where it exceeds the standards of credibility for what had been an *accept*. The surest way to avoid losing data through compression is not to compress it, and so by forgoing *accept*s and *reject*s we could provide more reliable insight into the credibility of research we review. <!-- (The alternative is to send reviewers to another set of reviewers, who may be less diligent) --> Without the power to *reject* work, we could even offer insights into its impact, originality, or ‘significance’ without undermining.
+Peer review does not need to be exclusionary to identify missteps, errors, and other causes for concern that might otherwise go undetected. Nor are rejections needed ensure those concerns don't go undisclosed. We can instead make a condition of peer review that authors publish our reviews when they publish their work.
 
-Abdicating the power to coerce authors to revise the work we review does not preclude us from providing authors with constructive feedback. Persuasion, and the promise to update our reviews when authors make good-faith efforts to improve their work, are both powerful tools on their own. 
+Our job as expert reviewers would then be to *elucidate* our concerns and other insights for the works' audience, ensuring the audience is not disadvantaged by lacking expertise or the time to read as diligently as we are expected to when reviewing. For work we would have once rejected, we could convey convey our concerns and lack of credence to the work's audience (though that audience will not see our reviews if authors choose not to publish). For work work we find to be particularly meticulous and credible, we can convey how it exceeds what would have once been our minimal standards for *accept*.
 
-**Authors would be more credible by removing perverse incentives.**
-<!-- Rejecting papers for missteps, errors, or other causes of concern disclosed by authors only encourages authors to hide their works missteps and errors---subverting scientific integrity. -->
+Abdicating the power to coerce authors to revise their work would not preclude us from encouraging them to improve the work we review. We could do so with constructive and persuasive feedback, along with promise to update our reviews.
 
-
-Raise the integrity of scientific discourse, but also make it more **understandable**, **efficient**, **faster**, **kinder**, more **inclusive**.
-
-
-<!-- We would work to ensure the audience, in evaluating the work's credibility, was not disadvantaged by lacking expertise or the time to read as diligently as reviewers are expected to. -->
-
-
-
-
-
-
-
-
-
-
-
-Switching from *exclusionary* to *elucidative* peer review would change how reviewers conduct and write peer reviews, for the better.
-
-
-
- <!-- Sometimes the best way to serve the audience of a work is to persuade the authors to improve it (elucidative peer review does not give reviewers the power to require that authors address concerns or make other changes). When authors make diligent efforts to address constructive feedback, reviewers should try to update their reviews accordingly. -->
-
-<!-- We might also assist the audience with insights beyond concerns that should be disclosed. We may also want to identify strengths of the work that might be otherwise go unnoticed or be underappreciated, or help put the work in historical context. -->
-
-<!-- When reviewing, we could ensure no concerns go undisclosed by disclosing them ourselves, in our reviews, using language accessible to the work's audience. -->
-
-
-
-
-
-
-
-
-Given how invested most of us are in the tradition of *exclusionary* peer review, and the journals, conferences, hiring systems, and promotions systems built around this ritual, it can be difficult to imagine adopting a peer review custom that does not give us the power to reject others' work and does not confer prestige as part of evaluating scientific integrity. So, before discussing the path to adopting *elucidative* peer review, consider what we would think of *exclusionary* peer review if *elucidative* reviewer were our  current custom.
-
+*Elucidative* peer review serves scientific integrity because it removes perverse incentives that encourage authors to downplay missteps or overstate *significance* to avoid rejection. It also would make scientific discourse more **understandable**, **efficient**, **faster**, **kinder**, more **inclusive**.
 
 
 
 Were we accustomed to *elucidative* peer review, we would expect scientific discourse to progress at a much faster rate than it can today. We would be accustomed to results being published after rounds of feedback between authors and a single set of reviewers. Adopting *exclusionary* peer review adds 3-6 months for every cycle of rejection and re-submission.
+
+<!-- Given how invested most of us are in the tradition of *exclusionary* peer review, and the journals, conferences, hiring systems, and promotions systems built around this ritual, it can be difficult to imagine adopting a peer review custom that does not give us the power to reject others' work and does not confer prestige as part of evaluating scientific integrity. So, before discussing the path to adopting *elucidative* peer review, consider what we would think of *exclusionary* peer review if *elucidative* reviewer were our  current custom.
+ -->
+
+
 
 
 New results would be delayed for years while work is rejected and re-submitted over and over. 

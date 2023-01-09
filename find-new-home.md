@@ -20,3 +20,33 @@ Using elucidative peer review, we could even submit our experimental methodology
 
 disagree with those who review our work, as we do today. We may choose to rebut their concerns within the work or through separate commentary. As reviewers, we can assist authors by noting if we find others' reviews inaccurate or prejudicial. We may also weigh in even when not formally reviewing, either through our reviewing systems or through other means of public discourse. Elucidating disagreements amongst scientists gives our audience a more accurate and nuanced view of how science works than summarizing it into a single ‘*accept*’ or ‘*reject*’ decision.
 
+
+
+
+ <!-- (The alternative is to send reviewers to another set of reviewers, who may be less diligent) -->.
+ 
+<!-- Our faith in a scientific ritual that lacks scientific evidence diminishes the credibility of the scientific endeavor. -->
+
+<!-- However, even if we choose which works to accept and reject based on scientific integrity alone, this act of *exclusionary* peer review would still hinder science. -->
+<!-- abolished ‘*significance*’  alone is not enough, as some problems are inherent to *all* forms of *exclusionary* peer review, where reviewers have the power to decide whether a work is accepted for, or rejected from, publication. -->
+
+<!-- Rejections imposed to censor one concerning element of a work may censor valuable results bundled into the same work.  -->
+
+
+<!-- The surest way to avoid being corrupted by the power is to abdicate it to perform the service of reviewing peers' work without the power to choose if, or where, that work will be published. We could still protect scientific integrity, by requiring that when authors do publish their work, they include the reviews they've received with it.  -->
+
+
+<!-- Rejecting papers for missteps, errors, or other causes of concern disclosed by authors only encourages authors to hide their works missteps and errors---subverting scientific integrity. -->
+
+
+
+<!-- We would work to ensure the audience, in evaluating the work's credibility, was not disadvantaged by lacking expertise or the time to read as diligently as reviewers are expected to. -->
+
+
+
+
+
+
+
+
+
