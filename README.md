@@ -12,13 +12,13 @@
 
 ---
 
-1. Peer reviewing work using criteria of significance is fundamentally incompatible with promoting and protecting scientific integrity.
-2. Reducing reviews to binary *accepts* and *rejects* is inevitably misleading and harmful to scientific integrity
+1. We simultaneously review for scientific integrity and ‘*significance*’, when these criteria are fundamentally incompatible.
+2. We conduct peer review to produce a binary outcome (*accept* or *reject*) though when that reduction is unnecessary and harmful.
 
 Therefore
 
-1. We should practice scientific review process that does not *accept* or *reject* work (certainly not for scientific integrity).
-2. We should isolate scientific peer review from review that generates *accepts* or *rejects*, especially that which seeks to identify works of significance, or that operates under the pretense of serving scientific integrity.
+1. We should conduct *scientific* peer review without producing *accept* or *reject* outcomes, instead requiring authors to publish reviews with their work.
+2. We should differentiate scientific peer review from rituals that generate *accepts* and *rejects*, especially that which seeks to identify works of significance. We should not participate in such rituals under the pretense of serving scientific integrity.
 
 
 Peer reviewing
