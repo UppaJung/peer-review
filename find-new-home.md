@@ -46,7 +46,23 @@ disagree with those who review our work, as we do today. We may choose to rebut 
 
 
 
+<!-- The very premise that we serve science by wielding power whether or where peers' work is published is dubious. The surest way to avoid the corrupting influence of power when examining others' work is to abdicate that power. The surest way to avoid misleading others by labeling work an *accept* or *reject* is to reject the premise that integrity is binary. -->
+<!-- —should we need to filter research works into *accepts* or *rejects*, we should not do so under the pretense of protecting scientific integrity. -->
 
 
 
+Scientific peer review should be distinct from peer review conducted to identify works of ‘significance’ or worthy of prestige. When evaluating whether research is significant, noteworthy, or whether it should appear a prestigious publication, we should not do so under the pretense of serving scientific integrity.
+
+Peer review currently purports to serve two competing and incompatible purposes: protecting scientific integrity and identify works of ‘significance’.
+
+
+
+
+
+
+For most of us, peer review is synonymous with determining whether a work should accepted for publication or rejected. We also treat peer review as "scientific service".
+
+Habit has tricked us to believe that categorizing work into *accepts* and *rejects* is the essential function of peer review, when it is both unscientific and unnecessary.
+
+<!-- It also undermines scientific integrity, misleads the public, and stifles scientific progress. -->
 

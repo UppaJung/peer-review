@@ -1,31 +1,83 @@
+<!-- Exclusionary, reductive, decisive  -->
 <!-- # Peer Review Should *Elucidate* not *Exclude*. -->
+<!-- # Peer Review Should Illuminate not Exclude -->
 <!-- # Rejecting Exclusionary Peer Review -->
 <!-- # Power, Prestige, and Peer Review -->
-# Peer Review in Service to Science
+<!-- # Peer Review in Service to Science -->
+<!-- # Illuminative Peer Review -->
+# Rejecting the use of *Reject* in Scientific Peer Review
+<!-- The fundamental flaw in our practice of scientific peer review is building it around the decision of whether work should be accepted or rejected. -->
+<!-- Peer review can be assistive or decisive, not both. -->
+<!-- Industrial labor -->
 
-Scientific peer review should *advance* science. It should promote and protect the integrity of scientific research by identifying missteps, errors, and other causes for concern that might otherwise go undetected or undisclosed. It should empower authors with others' expertise and insights to make us better scientists and communicators.
+---
 
-But the rituals we call “peer review” often *hinder* science, not advance it.
+1. Peer reviewing work using criteria of significance is fundamentally incompatible with promoting and protecting scientific integrity.
+2. Reducing reviews to binary *accepts* and *rejects* is inevitably misleading and harmful to scientific integrity
+
+Therefore
+
+1. We should practice scientific review process that does not *accept* or *reject* work (certainly not for scientific integrity).
+2. We should isolate scientific peer review from review that generates *accepts* or *rejects*, especially that which seeks to identify works of significance, or that operates under the pretense of serving scientific integrity.
+
+
+Peer reviewing
+We do not serve science when we peer reviewing research to determine whether to *accept* it for publication or *reject* it.
+
+Truly scientific peer review should not decide where or whether research work is published, nor reduce reviewers' insights into a binary *accept* or *reject*.
+
+
+Most of volunteer to review peers' research aspiring to *advance* science. We seek to protect the integrity of scientific research by revealing missteps, errors, and other problems that authors might have overlooked and that might mislead the work's audience. We hope to provide feedback that improves authors' work, helping them to become better scientists and communicators.
+
+But peer review that requires us to help decide to *accept* or *reject* works *hinders* science under the pretense of advancing it.
+
+
+Instead, we should peer review on the condition that authors share our reviews along with their work when they publish it. We can write our reviews to ensure the work's audience is not disadvantaged by lacking expertise reviewers should have or the time to read as diligently as reviewers are expected to. We can ensure the audience is aware of grave concerns that would have led to certain rejection were the option available, raves that would have inspired enthusiastic acceptance, and all the less clear cut  observations but important observations in between.
+
+The appeal of being able to *reject* work is that censoring work seems like the surest way to prevent it from misleading others. But once we have *rejects* and *accepts*, the latter will be misconstrued as endorsements, even though accepted works are rarely without limitations and shortcomings that many readers will overlook. When we reject work to prevent one dubious result from misleading readers, we censor the entirety of the work, including results that may be credible and valuable. Rejecting work censors the record of authors' missteps, making it harder for science to learn the prevalence of those missteps or to learn from them.
+
+
+Reducing our review of a work to an *accept* or *reject* is unscientific because we cannot do so reliably; in the few well-designed experiments evaluating peer review, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability).
+
+One might argue that we are unreliable reviewers because we are asked to evaluate not just the integrity of work, but also its subjective ‘*significance*’. Yet, integrity is not without subjectivity. Work describing an experiment may fairly be classified *reject* by a reviewer concerned that the experimental design failed to disprove a plausible alternate hypothesis, but an *accept* to a reviewer who believes that alternate hypothesis is too implausible to warrant disproving.
+
+When reviews are reduced to *accepts* and *rejects, acceptances are inevitably misconstrued as endorsements, though accepted works are rarely without limitations and shortcomings that many readers will overlook. When we reject work to prevent one dubious result from misleading readers, we censor the entirety of the work, including results that may be credible and valuable. Further, when reject work, we are censoring the record of authors' missteps, making it harder for science to learn the prevalence of those missteps or to learn from them.
+
+Holding power over whether a work will published reduces our objectivity as reviewers. The moment we start leaning toward an accept or reject outcome, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) may lead us to favor observations that support that outcome. We may be unfairly ignore observations that support the alternative, as they create dissonance with our belief that we chose the fair objective outcome.
+
+
+
+
 
  <!-- We practice exclusionary peer review because of the collective illusion that is is somehow necessary for science. -->
 
-We often practice peer review to rank research for ‘*significance*’, and distribute prestige, under the pretense of protecting scientific integrity. We do this by submitting research to, and serving on, peer review committees run by journals and conferences that use exclusivity to build brand cachet. Exclusivity necessitates ‘*significance*’ criteria beyond scientific integrity, which inevitably competes with integrity and [undermines](./The-Harms-of-Exclusionary-Peer-Reivew.md) it. We practice these ‘scientific’ rituals despite little scientific evidence that we are reliable judges; in the few well-designed experiments testing review, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability). 
+Exclusive publications often ask us to evaluate criteria of ‘*significance*’ that extend beyond scientific integrity, when these added criteria can compete with integrity and [undermine it](./The-Harms-of-Exclusionary-Peer-Reivew.md). Reviewing work for ‘*significance*’ risks perpetuating the illusion that scientists can measure ‘*significance*’ reliably and reproducibly, when in the few well-designed experiments evaluating that hypothesis, [half of the works accepted by one review were rejected by a parallel review](./Notes.md#replicability). 
 
-Yet, we could not objectively categorize works into *accepts* and *rejects*  even if scientific integrity were our only review criteria.
+Yet, even were to to evaluate research for scientific integrity alone, we would be unable to objectively or accurately compress the many dimensions of integrity into *accepts* and *rejects*. Work describing an experiment may fairly be a *reject* to a reviewer who notes that the experimental design failed to disprove a plausible alternate hypothesis, but an *accept* to a reviewer who considers that alternate hypothesis too implausible to warrant disproving.
 
-There are many dimensions to scientific integrity, and compressing them into a boolean is lossy and perilous. Acceptances are inevitably misconstrued as endorsements, though accepted works are rarely without limitations and shortcomings that many readers will miss. Rejections censor valuable results for being bundled with those that raised reviewers' concerns. Rejections also conceal authors' missteps from those who might study or learn from them, making it harder for science to learn from our collective mistakes.
+One consequence of this lossy compression is that acceptances are inevitably misconstrued as endorsements, though accepted works are rarely without limitations and shortcomings that many readers will overlook. When we reject work to prevent one dubious result from misleading readers, we censor the entirety of the work, including results that may be credible and valuable. Further, when reject work, we are censoring the record of authors' missteps, making it harder for science to learn the prevalence of those missteps or to learn from them.
 
-Further, holding power over whether a work will published cannot help but bias us as reviewers. Knowing that we are subject to [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), we must assume that, the moment we start leaning toward an accept or reject outcome, we may unknowingly favor observations that support that outcome. We may subconsciously suppress reporting facts that run counter to our supported outcome, and that would subvert the certainty that the outcome is just, as those facts create a dissonance with our views of ourselves as fair and just.
+Holding power over whether a work will published reduces our objectivity as reviewers. The moment we start leaning toward an accept or reject outcome, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) may lead us to favor observations that support that outcome. We may be unfairly ignore observations that support the alternative, as they create dissonance with our belief that we chose the fair objective outcome.
+<!-- (Ironically, the criminal justice system attempts to address such biases by separating the roles of investigator and prosecutor, whereas scientists who actually study cognitive biases do not take equivalent precautions to remove their biases when judging peers' work.) -->
 
-We need to re-evaluate the very premise that we serve science by practicing *exclusionary* peer review, wielding the power to decide whether or where a work is published. The surest way to avoid the corrupting influence of power when reviewing others' work is to abdicate that power. The surest way to avoid the hazards of compressing a work's integrity into boolean *accepts* and *rejects* is not to do so—or at least not to do so under the pretense of serving science.
+To best advance science, we should abdicate the power to decide whether or where that research is published. Power cannot corrupt us if we decline to wield it. Labels of *accept* and *reject* cannot mislead others if we decline to produce them.
 
-Peer review does not need to be exclusionary to identify missteps, errors, and other causes for concern that might otherwise go undetected. Nor are rejections needed ensure those concerns don't go undisclosed. We can instead make a condition of peer review that authors publish our reviews when they publish their work.
 
-Our job as expert reviewers would then be to *elucidate* our concerns and other insights for the works' audience, ensuring the audience is not disadvantaged by lacking expertise or the time to read as diligently as we are expected to when reviewing. For work we would have once rejected, we could convey convey our concerns and lack of credence to the work's audience (though that audience will not see our reviews if authors choose not to publish). For work work we find to be particularly meticulous and credible, we can convey how it exceeds what would have once been our minimal standards for *accept*.
+We can protect scientific integrity by reviewing work under the condition that authors share our reviews along with their work when they publish it. <!-- We can protect scientific integrity by reviewing work under the condition that authors share our reviews along with their work when they publish it. 
+--> We can write reviews that illuminate our concerns and other insights for the works' audience, ensuring the audience is not disadvantaged by lacking expertise or the time to read as diligently as we are expected to when reviewing. For work with missteps, errors, or concerns so grave that we would have once rejected it, we can make these concerns, and our lack of credence, as apparent to the work's audience as a *reject* might have been (though that audience may not see our reviews if authors choose not to publish, as it might not know work had previously received a *reject*). When reviewing particularly meticulous work, we can help the audience understand why we find it more credible than a mere *accept* might imply.
 
-Abdicating the power to coerce authors to revise their work would not preclude us from encouraging them to improve the work we review. We could do so with constructive and persuasive feedback, along with promise to update our reviews.
+Nor do we need the power to reject research to encourage authors to improve it. We can strive to persuade authors that revisions will improve their work, to provide constructive feedback to reduce the effort needed to improve the work, and promise to update our reviews to acknowledge those improvements.
 
-*Elucidative* peer review serves scientific integrity because it removes perverse incentives that encourage authors to downplay missteps or overstate *significance* to avoid rejection. It also would make scientific discourse more **understandable**, **efficient**, **faster**, **kinder**, more **inclusive**.
+Replacing *accepts* and *rejects* with *illuminative* peer review would make scientific discourse more **credible**, more **understandable**, **faster**, more **efficient**, more **inclusive**, **kinder**.
+
+More credible: no more perverse incentives.
+More understandable: correct audience.
+Faster: no waiting to compare
+Efficient: no more reject and resubmit (submit before experiment)
+Inclusive: scientific feedback without rejection for outsider status
+Kinder: rejection only for status
+
+<!-- This *elucidative* peer review serves scientific integrity because it removes perverse incentives that encourage authors to downplay missteps or overstate *significance* to avoid rejection. It also would make scientific discourse more **understandable**, **efficient**, **faster**, **kinder**, more **inclusive**. -->
 
 
 
