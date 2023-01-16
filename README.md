@@ -24,29 +24,20 @@ In addition to addressing the work's audience, reviews can also act to persuade 
 
 This *illuminative* approach to scientific peer review should be strictly isolated from peer review that segregates works worthy of publication, or other recognition, from works to *reject*. It should be isolated from *competitive* review.
 
-Isolating *illuminative* peer review ensures that reviewers address their evaluation to the work's potential audience, not to convince fellow reviewers that their conclusion of *accept* or *reject* is more correct.
+Isolating *illuminative* peer review would ensure that reviewers address their evaluation to the work's potential audience, not to convince fellow reviewers that their conclusion of *accept* or *reject* is more correct.
 
-Isolating *illuminative* review is also essential to ensure that authors write their papers for their audience, not reviewers. And, whether we realize it or not, when writing papers for competitive review, we often write to give reviewers what they expect, not to give our audience what they need. We often start introductions by explaining why the subject of our work is important, lest reviewers who would not otherwise read it question whether our work would have an audience. We may use jargon to signal expertise. We may provide many times more references than we need so as to signal reviewers that we are experts and ensure that reviewers' don't fault us for leaving their work out.
+Employing exclusively *illuminative* review would allow authors to write their papers to serve their intended audience, not to court acceptance from reviewers. When writing papers for competitive review, we cannot help but try to appease reviewers' expectations. We write to justify its importance to reviewers who were assigned to read it. We may use jargon to signal that we are knowledgeable. We may also signal expertise by providing many times more references than our audience actually needs, and cite works by likely reviewers to curry favor with them. We could write so much better if writing were not an exercise in avoiding rejection.
 
-Isolating *illuminative* review reduces the time authors need to wait for reviews because most of the time they currently wait is a consequence of evaluating competing submissions. Reviewers must review a set of submissions discuss these submissions with other reviewers, and make decisions about the full set of submissions before authors receive feedback. When reviewers can read a work in isolation of other works, and do not need to discuss the work with others, they can provide their review immediately after evaluating the work. We could peer review works of critical importance in days instead of months.
+Employing exclusively *illuminative* review would reduce the time authors need to wait for feedback, because most of the current delays is needed to compare competing submissions. Reviewers must review a set of submissions, discuss each submission with other reviewers, and collectively determine outcomes for the full set of submissions before authors receive feedback. Reviewers could provide feedback immediately after reading a work. We could peer review works of critical importance in days instead of months.
 
-Opting for *illuminative* peer review would save time and effort for both authors and reviewers, as it eliminates the cycle in which works are rejected by one set of reviewers only to be submitted to another set of reviewers, then another, and another. Such cycles are a necessary feature of competitive review, but they require diligent authors to revise work for re-submission to a new peer review committee with different members, expectations, interests, and paper formatting rule. Even if work is unchanged, each such re-submission requires a new set of reviewers to replicate the work of prior reviewers from scratch. Authors should still incorporate feedback nad improve their work, but reviewers who have already read the work and provided that feedback can evaluate those changes more efficiently than new ones.
+Authors who opt for purely *illuminative* peer review would save time and effort for both themselves and reviewers. Opting out of competitive review eliminates the cycle in which works are rejected by one set of reviewers only to be submitted to another set of reviewers, then another, and another. Such cycles require diligent authors to revise work for each re-submission to a new peer review committee with different members, expectations, interests, and paper formatting rule. Even if work is unchanged, each such re-submission requires a new set of reviewers to replicate the work of prior reviewers from scratch.
 
+Opting for *illuminative* peer review could also make science kinder and more inclusive. Not all feedback will be positive, but it would surely be less negative if the majority of reviews did not need to be written to justify the choice to reject. Removing *accepts* and *rejects* could make science more inclusive, as reviewers are naturally biased to accept work by those whose dialect is similar to their own. Illuminative peer review does not conflate reviewers' subjective disinterest in a work, or sense that it lacks significance, with a lack of scientific integrity.
 
-
-*Illuminative* scientific peer review would make scientific discourse **faster**, more **efficient**, more **inclusive**, **kinder**.
-
-
+All forms of peer review can produce feedback that is negative and that authors may find unfair. While authors would be required to share it, they could rebut it, encourage other reviewers to rebut it, and invite the broader scientific community respond.
 
 
-More credible: no more perverse incentives.
-More understandable: correct audience.
-Faster: no waiting to compare
-Efficient: no more reject and resubmit (submit before experiment)
-Inclusive: scientific feedback without rejection for outsider status
-Kinder: rejection only for status
-
+---
 
 We could expect more constructive and positive feedback from *elucidative* peer review, at least in aggregate, because reviewers would not need to [concoct reasons to reject the majority of papers](./The-Harms-of-Exclusionary-Peer-Reivew.md/#negative-feedback).
 
-We would still get negative feedback, some of which we may disagree with. We would be obligated to share feedback with disagree with along with our work. We could, however, rebut feedback we disagree with and publish, allowing the broader scientific community to evaluate the merits of each position.
