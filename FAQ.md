@@ -29,7 +29,3 @@ Illuminative peer review can be used with anonymous or named authors, and with a
 The term ‘[open peer review](https://en.wikipedia.org/wiki/Open_peer_review)’ encompasses a range of practices including exclusionary peer review where reviews of only accepted papers are released to the public.
 
 My goal in  was not to coin a new term, as the excess of jargon created by scientists seeking ownership of the lexicon is also among science's sins. Rather, I hoped that giving a name to *exclusionary* and *illuminative* peer review would be useful in convincing my fellow scientists ithat the former is harmful and the latter is a real and compelling alternative.
-
-#### What role can journals play if authors adopt illuminative peer review?
-
-Without the pretense of protecting scientific integrity, journals are effectively awards committees. Some people appreciate awards committees. Those scientists who do should feel free to contribute to them, while those scientists who do not should feel no obligation to do so.
