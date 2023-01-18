@@ -1,6 +1,24 @@
 
 
-<!-- Perhaps for the slide version of this talk "Runways are an odd slightly-raised surface for scientists to choose to die on." or "When I ask fellow scientists whether they really want to be arbiters of fashion, I'm often surprised how many will choose a runway as the hill they're willing to die on." -->
+
+<span id="speculation"></span>
+#### Regarding “*researchers are pressured by reviewers to go beyond factual reporting*”
+As an example of how exclusionary peer review pressures authors to speculate beyond their factual findings, I will quote two of the three reviewers from my recent co-authored submission to the *2022 Symposium on Usable Privacy and Security*.
+
+Reviewer B complained that data tables with the exact wording survey questions and answers be replaced with charts to make space for the “*critical reflection of the results and a discussion of the larger implications of the results.*”
+
+Reviewer C wrote “*I'd like to read the authors' thoughts about the findings and how they inform future research and product development.*”
+
+<span id="procedural-television-dramas"></span>
+#### Regarding “*procedural television dramas*”
+
+The justice system's clear separation of duties between investigation and advocacy (prosecution) has been drilled into the public's awareness for over two decades by the ubiquitous procedural television drama [Law and Order](
+https://en.wikipedia.org/wiki/Law_%26_Order) and its spin-offs. Each episode starts with following introductory narration:
+>In the criminal justice system, the people are represented by two separate yet equally important groups: the police who investigate crime, and the district attorneys who prosecute the offenders. These are their stories.
+
+
+
+<!-- Perhaps for the slide version of this talk "Runways are an odd choice of slightly-raised surface for scientists to choose to die on." or "When I ask fellow scientists whether they really want to be arbiters of fashion, I'm often surprised how many will choose a runway as the hill they're willing to die on." -->
 
 
 ## Background
