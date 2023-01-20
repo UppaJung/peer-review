@@ -74,16 +74,16 @@ Stuart Schechter wrote this article with the inspiration and help of many (some 
 <!-- Move notes here?  -->
 
 [^replicability]: Past attempts to test whether peer include the [The NeurIPS 2021 Consistency Experiment](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/), and its 2014 predecessor, which duplicated the review process for a fraction of papers. Per the 2021 report:
-
-> In 2014, 49.5% of the papers accepted by the first committee were rejected by the second (with a fairly wide confidence interval as the experiment included only 116 papers).  This year, this number was 50.6%.
-
-The experimental methodology is noteworthy for removing independent variables that might cause differences between the replica review processes. Again, in their words:
-
-> During the assignment phase of the review process, we chose 10% of papers uniformly at random—we’ll refer to these as the “duplicated papers.”  We assigned two Area Chairs (ACs) and twice the normal number of reviewers to these papers.  With the help and guidance of the team at OpenReview, we then created a copy of each of these papers and split the ACs and reviewers at random between the two copies.  We made sure that the two ACs were assigned to two different Senior Area Chairs (SACs) so that no SAC handled both copies of the same paper.  Any newly invited reviewer for one copy was automatically added as a conflict for the other copy.  We’ll refer to the SAC, AC, and reviewers assigned to the same copy as the copy’s “committee.”  The papers’ committees were not told about the experiment and were not aware the paper had been duplicated.
-
-This methodology assured that papers were reviewed to a single peer review committee's reviewing standards and with reviewers from the same pool of candidates (a reviewer might be reviewing a paper from replica A and a different paper for replica B).
-
-We can expect even lower reliability under less controlled circumstances, such as when authors re-submit their work to a different peer review committee. Re-submissions means work will be evaluated by a committee with traditions and expectations, different pools of reviewers, with new prior work released in the intervening time, and with changes in what research is fashionable over the passage of time.
+ 
+ > In 2014, 49.5% of the papers accepted by the first committee were rejected by the second (with a fairly wide confidence interval as the experiment included only 116 papers).  This year, this number was 50.6%.
+ 
+ The experimental methodology is noteworthy for removing independent variables that might cause differences between the replica review processes. Again, in their words:
+ 
+ > During the assignment phase of the review process, we chose 10% of papers uniformly at random—we’ll refer to these as the “duplicated papers.”  We assigned two Area Chairs (ACs) and twice the normal number of reviewers to these papers.  With the help and guidance of the team at OpenReview, we then created a copy of each of these papers and split the ACs and reviewers at random between the two copies.  We made sure that the two ACs were assigned to two different Senior Area Chairs (SACs) so that no SAC handled both copies of the same paper.  Any newly invited reviewer for one copy was automatically added as a conflict for the other copy.  We’ll refer to the SAC, AC, and reviewers assigned to the same copy as the copy’s “committee.”  The papers’ committees were not told about the experiment and were not aware the paper had been duplicated.
+ 
+ This methodology assured that papers were reviewed to a single peer review committee's reviewing standards and with reviewers from the same pool of candidates (a reviewer might be reviewing a paper from replica A and a different paper for replica B).
+ 
+ We can expect even lower reliability under less controlled circumstances, such as when authors re-submit their work to a different peer review committee. Re-submissions means work will be evaluated by a committee with traditions and expectations, different pools of reviewers, with new prior work released in the intervening time, and with changes in what research is fashionable over the passage of time.
 
 
 [^runways]: Runways may be engineered hills, but they are still a poor choice for a scientist to want to die on.
