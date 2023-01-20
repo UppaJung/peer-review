@@ -4,7 +4,7 @@
 <!-- # Rejecting Exclusionary Peer Review -->
 <!-- # Power, Prestige, and Peer Review -->
 <!-- # Peer Review in Service to Science -->
-<!-- # Illuminative Peer Review -->
+<!-- # Informative Peer Review -->
 # Rejecting the use of *Reject* in Scientific Peer Review
 <!-- The fundamental flaw in our practice of scientific peer review is building it around the decision of whether work should be accepted or rejected. -->
 <!-- Peer review can be assistive or decisive, not both. -->
@@ -133,7 +133,7 @@ We can protect scientific integrity by reviewing work under the condition that a
 
 Nor do we need the power to reject research to encourage authors to improve it. We can strive to persuade authors that revisions will improve their work, to provide constructive feedback to reduce the effort needed to improve the work, and promise to update our reviews to acknowledge those improvements.
 
-Replacing *accepts* and *rejects* with *illuminative* peer review would make scientific discourse more **credible**, more **understandable**, **faster**, more **efficient**, more **inclusive**, **kinder**.
+Replacing *accepts* and *rejects* with *informative* peer review would make scientific discourse more **credible**, more **understandable**, **faster**, more **efficient**, more **inclusive**, **kinder**.
 
 More credible: no more perverse incentives.
 More understandable: correct audience.
