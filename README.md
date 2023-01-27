@@ -24,7 +24,7 @@ When we encounter deeply-flawed work, we can choose words that signal a lack of 
 
 By conducting a form of scientific peer review that requires us to abdicate the power to reject the work we review, we can avoid being corrupted by that power, avoid decisions that may send misleading signals, and avoid censoring our collective mistakes from those who would learn from them.
 
-Some authors will inevitably still receive written feedback they disagree with, dislike, or even feel misleads their audience. While authors would remain obligated to share feedback they disagreed with they could note and address the disagreement, encourage other reviewers to address the disagreement, or even invite outside experts to do so.
+Some authors will inevitably still receive written feedback they disagree with, dislike, or even feel misleads their audience. While authors would remain obligated to share feedback they disagreed with, they could note and address the disagreement, encourage other reviewers to address the disagreement, or even invite outside experts to do so.
 
 Anyone who produces scientific work can, and should, contribute to informative peer review. The skills required, evaluating research and explaining our findings to inform a broad audience, are skills we already need to conduct and present our own research, and so we should already be comfortable using them. We can also use our existing skills as scientific collaborators to help persuade authors to improve their work: explaining the purpose and value of proposed improvements, providing constructive feedback to make improvements easier to realize, and offering the promise to update our reviews to acknowledge genuine improvements.
 
