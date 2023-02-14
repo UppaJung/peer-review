@@ -62,7 +62,7 @@ Stuart Schechter wrote this article with the inspiration and help of many (some 
 
 [^anonymity]: Informative peer review can be used with anonymous or named authors, and with anonymous, pseudonymous, or named reviewers. Naming authors prior to reviewers' initial review may make them less objective. Reviewers may be more comfortable being named by default given that they don't have to fear being blamed for rejecting a paper.
 
-[^selection-of-scientists]: Some have even argued that natural selection favors scientists whose “poor” methods “produce the greatest number of publishable results” which leads to “increasingly high false discovery rates” [[Smaldino and McElreath]](./Recommended-Readings.md/#the-natural-selection-of-bad-science).
+[^selection-of-scientists]: Some have even argued that natural selection favors scientists whose “poor” methods “produce the greatest number of publishable results” which leads to “increasingly high false discovery rates”. See [recommended readings](./Recommended-Readings.md/#the-natural-selection-of-bad-science) or go directly to the primary source by [Smaldino and McElreath](https://royalsocietypublishing.org/doi/10.1098/rsos.160384).
 
 
 [^reviewers-are-biased-sample]: Reviewers are disproportionately older and more powerful than the general population of conference attendees. We should be suspect of those who believe that they are best able to choose which work should be modeled on science's more exclusive runways and which to leave hanging backstage. Runways may be engineered hills, but they are still poor hills for scientists to choose to die on.
