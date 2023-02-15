@@ -1,0 +1,40 @@
+# Look through
+
+<!-- Whereas competitive peer review introduces a power differential between the authors of a work and those assigned to review it, informative review is designed to reduce the knowledge differential between the authors of the work and their audience.  -->
+
+<!-- 
+The decision to accept or reject work are that it can subvert our objectivity as reviewers, as we must advocate for outcomes and defend our choices. The moment we start leaning toward an accept or reject decision, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) may lead us to favor observations that support that choice. We may unfairly ignore observations that support the competing choice, as such observations create dissonance with our faith in our objectivity and competence in making fair choices.
+
+To introduce peer review without *rejects* requires us to overcome illusion that rejecting work is the most effective means to protect scientific integrity, and thus a necessary function of peer review. Rejection *can* prevent flawed or misleading work from appearing in a publication—and that publication's readers cannot be misled by that which they cannot see. However, the prophylactic power of *reject* is limited to a single publication. The rejected work's authors may still re-submit their work unchanged elsewhere or publish it without peer review. Rejecting work cannot ensure it won't reach a large audience or ensure that its flaws will be fixed before it reaches them.
+
+Further, our power to reject has harmful side effects that negatively impact the broader integrity of science. The power to reject gives the work we accept our implicit endorsement, and our choice not to reject work can make it more likely that the work's audience will overlook important limitations and shortcomings. When we do successfully use the power to reject work to censor works with significant missteps, we conceal those missteps from those who might study them or learn from them. We make it harder for science to learn from our collective mistakes and immunize ourselves against them.
+
+Another side effect structuring peer review around the decision to accept or reject work are that it can subvert our objectivity as reviewers, as we must advocate for outcomes and defend our choices. The moment we start leaning toward an accept or reject decision, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) may lead us to favor observations that support that choice. We may unfairly ignore observations that support the competing choice, as such observations create dissonance with our faith in our objectivity and competence in making fair choices.
+
+
+#### The power to *reject* work is harmful and unnecessary
+ -->
+<!-- 
+*Competitive* peer review, in which we pit research works against each other to vie for inclusion in exclusive publications, or for other forms of recognition, puts the choice to accept or reject work front and center. We pick winners and losers using criteria that inevitably undermine scientific integrity[^undermine-integrity] while often maintaining the pretense of protecting integrity.
+
+We overestimate our competence in evaluating these criteria; in the few well-designed experiments of competitive peer review, [half of the works accepted by one review were rejected by a parallel review](./Recommended-Readings.md#the-neurips-2021-consistency-experiment). -->
+
+<!--
+Critics of our current peer review practices often propose cultural changes: adopting more objective criteria, promoting kinder and more constructive reviews, and raising acceptance rates. Yet, even if we conducted peer review work non-competitively and for integrity alone, we could not objectively or fairly segregate works to *accepts* and *rejects*. Scientific integrity has many dimensions and compressing them to a boolean is inherently subjective[^subjective-integrity], necessarily lossy, and thus likely to mislead.
+-->
+
+<!-- 
+
+
+#### We can scientifically peer review without the power to *reject*
+
+To address the harmful side effects of the power to reject the work we peer review, we should promote forms of peer review that do not produce *accept* and *reject* outcomes. -->
+
+
+
+
+
+# Probably get rid of
+<!-- However, only by adopting forms of scientific review that make no accept/reject decisions can we overcome the fundamental problem: that the decision itself negatively impacts how we review scientific work, how we produce scientific work, and the credibility of science as a whole. -->
+<!-- 
+Better that we recognize that we currently peer review in service to two mutually incompatible ends: science and exclusivity. Exclusivity  Peer review bestows status onto accepted works by excluding others.  -->
