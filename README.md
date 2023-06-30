@@ -8,22 +8,33 @@
   (SEE AI, HOUSING, ETC)
 -->
 
-Using peer review to segregate research into accepts and rejects undermines its scientific purpose: improving the quality and credibility of research. Scoring research work, which we must do to rank or segregate it, amplifies the biases in our feedback. Embracing forms of peer review that produce no scores can make science more objective, just, and efficient.
+Using peer review to score research, rank it, or segregate works into accepts and rejects amplifies our biases and undermines peer review's scientific purpose. Embracing forms of peer review that produce no scores can make science more objective, just, and efficient.
+<!-- : protecting the credibility of scientific research and providing authors helpful external feedback.  -->
 <!-- We can improve the  science more objective, inclusive, and efficient by conducting forms of peer review that do not segregate, rank, or score. -->
 
-Our belief in our expertise and in the quality of our own work and expertise biases our view of others' works. We are inclined to favor works that are familiar in approach, language, and style to our own; as well as works that confirm our ‘expert’ opinions. The harms caused by these biases depend on *how* we review works.
 
-When reviewing work to produce a score, our implicit biases can influence our scores, but their influence doesn't stop there, because our scoring intentions influence the written feedback we provide. Even when we strive to be objective in making observations and reporting them, those observations that confirm the fairness our intended scores (and our views of ourselves as fair) are likely to seem more salient. When we have no scores to justify, we are more likely to find salient those observations that might most help the authors improve their work or help non-experts understand it.
+<!-- Our ability to score research is biased by our belief in the quality of our own work and in our own expertise, which leads us to  -->
 
-Since peer reviewers are typically selected from those who have had historical success in a field, our implicit biases disadvantage those who are new to a field, those who are underrepresented within a field, and those who do work that challenges our strongly-held beliefs and prejudices. They not only get lower scores, but less useful feedback.
+When we review others' work, scoring amplifies the impact of our implicit biases. We naturally like works that are familiar in approach, language, and style; as well as works that confirm our expert-held beliefs. The biases that influence our scoring intentions can propagate to our written feedback, even when we provide feedback that consists only of objective facts. When observing facts and deciding which to report, those that confirm the fairness our intended scores and outcomes will appear more salient.[^confirming-ourselves-as-fair]
 
-Our subjectivity as reviewers is evidenced by experiments evaluating the replicability of peer review outcomes, in which half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] Those who receive enough acceptances to survive in in academic careers often refer to this inconsistency as *randomness*, falsely perpetuating a myth of fairness: unlike randomness, systemic biases are not distributed fairly, do not diminish with repeated trials, and get worse overtime as today's peer reviews determine who survives to become tomorrow's reviewers.
+[^confirming-ourselves-as-fair]: Conversely, facts that are dissonant with our intended scores can lead to dissonance with our beliefs in ourselves as fair and just, and so appear less salient.
+<!-- When we have no scores to justify, we are more likely to find salient those observations that might most help the authors improve their work or help non-experts understand it. -->
 
+<!-- Peer reviewers selected for their experience will find less familiar those works submitted by those who are new to a field and those who are underrepresented within a field, and have a less favorable view of work that challenges the field's strongly-held beliefs and prejudices. -->
+
+
+Indeed, our scores and reviewing outcomes are not objective. In experiments evaluating the replicability of peer review outcomes, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as *randomness*, but doing so perpetuates a myth that harm is evenly distributed and diminishes over time. Bias gets worse, as today's peer reviews determine who survives to become tomorrow's peer reviewers.
+
+When we treat acceptance by a peer review as a sign of credibility of a work, as opposed to its appeal to the subjective interests of peer reviewers, we amplify the harms of our biases. When we follow the norm of listing the research works on our CVs with the names of the exclusive publications that accepted them, and their acceptance rates, we amplify those biases.
+
+To make science more objective, credible, and just, we must embrace forms of peer review that do not score works, rank works, or segregate works into accepts and rejects.
+
+<!-- Peer reviewers selected for their experience will find less familiar those works submitted by those who are new to a field and those who are underrepresented within a field, and those who do work that challenges the field's strongly-held beliefs and prejudices. They not only get lower scores, but less useful feedback. In the absence of scoring, observations that might most help the authors improve their work or help non-experts understand it are more salient than those that justify why the work needs improvement or is hard to understand. -->
+
+<!-- 
 The subjectivity with which acceptances are granted undermines their (mis)use as a signal of credibility.
 
-Legitimizing systems we know to be systemically biased in harmful, and we do this when we ignore the biases and inconsistencies of peer review. We produce CVs that list acceptances and acceptance rates. We warn the press to be cautious about results that have not been accepted for publication, even when journalists solicit more independent expert reviews than a peer review committee would. 
-
-**HERE** Reforming acceptance criteria helps perpetuate the misuse of a systemically-biased process as a signal of whether research is credible ().
+Legitimizing systems we know to be systemically biased in harmful, and we do this when we ignore the biases and inconsistencies of peer review. We produce CVs that list acceptances and acceptance rates. We warn the press to be cautious about results that have not been accepted for publication, even when journalists solicit more independent expert reviews than a peer review committee would.  -->
 
 <!-- Focusing on acceptance criteria will only aggravate the harms that result when we treated systemically-biased system as if they were objective, as we do when treating acceptances as a signal of the credibility and value of a research work. -->
 
@@ -38,8 +49,6 @@ Legitimizing systems we know to be systemically biased in harmful, and we do thi
 
 <!-- We are systemically biased to favor works by those similar to us and that support our existing beliefs, and against works from outsiders and those with conflicting beliefs. -->
 
-
-To make science more objective, credible, and just, we must embrace forms of peer review that do not score works, rank works, or segregate works into accepts and rejects.
 
 Specifically, we should conduct *informative* peer review, producing only written feedback to inform a work's authors and their audience. We should write feedback to help help authors improve their work and to identify issues they may have overlooked. We should provide their audience expert insights that complement the authors' by adding clarity, balance, and external perspective. To ensure the audience has access to these insights, *informative* peer review requires authors to share reviews whenever the work is shared.[^social-contract]
 <!-- Those insights, not a score or decision, should be the product preserved to stand the test of time. Such feedback is valuable when it helps -->
