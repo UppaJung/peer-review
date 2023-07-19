@@ -8,63 +8,40 @@
   (SEE AI, HOUSING, ETC)
 -->
 
-Using peer review to score research, rank it, or segregate works into accepts and rejects amplifies our biases and undermines peer review's scientific purpose. Embracing forms of peer review that produce no scores can make science more objective, just, and efficient.
-<!-- : protecting the credibility of scientific research and providing authors helpful external feedback.  -->
-<!-- We can improve the  science more objective, inclusive, and efficient by conducting forms of peer review that do not segregate, rank, or score. -->
+<!-- Using peer review to score research, rank it, or segregate works into accepts and rejects amplifies our biases and undermines peer review's scientific purpose. Embracing forms of peer review that produce no scores can make science more objective, just, and efficient.
+ -->
+We can make science more efficient, objective, and just by embracing forms of peer review that do not score research works, rank them, or segregate them into *accepts* and *rejects*.
 
+Scoring research amplifies our implicit biases making us less objective. We cannot help but like works that are familiar in approach, language, and style to our own and those close to us; we cannot help but appreciate works motivated by a common belief system and that produce results that confirm our beliefs and hopes. When we must assign a score to qualities of the work we cannot help but activate these biases. Once activated, these biases propagate to our written feedback no matter how much we report only objective, purely factual observations. Of the innumerable possible factual observations we might make about a work, we cannot help but make more salient those that observations that confirm the fairness of how we expect to score the work. Thus, our natural biases against outsiders and outsider belief bias not only our scores, but the quality of our feedback.
 
-<!-- Our ability to score research is biased by our belief in the quality of our own work and in our own expertise, which leads us to  -->
-
-When we review others' work, scoring amplifies the impact of our implicit biases. We naturally like works that are familiar in approach, language, and style; as well as works that confirm our expert-held beliefs. The biases that influence our scoring intentions can propagate to our written feedback, even when we provide feedback that consists only of objective facts. When observing facts and deciding which to report, those that confirm the fairness our intended scores and outcomes will appear more salient.[^confirming-ourselves-as-fair]
-
-[^confirming-ourselves-as-fair]: Conversely, facts that are dissonant with our intended scores can lead to dissonance with our beliefs in ourselves as fair and just, and so appear less salient.
 <!-- When we have no scores to justify, we are more likely to find salient those observations that might most help the authors improve their work or help non-experts understand it. -->
 
 <!-- Peer reviewers selected for their experience will find less familiar those works submitted by those who are new to a field and those who are underrepresented within a field, and have a less favorable view of work that challenges the field's strongly-held beliefs and prejudices. -->
 
+It's unclear just how biased we are when reviewing works for acceptability, but the scant evidence available certainly does not suggest we are objective. In experiments by the NeuroIPS conference in 2014 and again in 2021, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as *randomness*, but doing so perpetuates a myth that harm is evenly distributed and diminishes over time. Our bias against underrepresented researchers and unpopular ideas may actually grow worse as today's peer reviews determine who survives to become tomorrow's peer reviewers.[^amplify]
 
-Indeed, our scores and reviewing outcomes are not objective. In experiments evaluating the replicability of peer review outcomes, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as *randomness*, but doing so perpetuates a myth that harm is evenly distributed and diminishes over time. Bias gets worse, as today's peer reviews determine who survives to become tomorrow's peer reviewers.
+We can provide more objective feedback for research by reviewing it purely *informatively*, without scoring it. We can thus avoid triggering the biases that influence how we score and excise our need to provide feedback to justifies our score.
 
-When we treat acceptance by a peer review as a sign of credibility of a work, as opposed to its appeal to the subjective interests of peer reviewers, we amplify the harms of our biases. When we follow the norm of listing the research works on our CVs with the names of the exclusive publications that accepted them, and their acceptance rates, we amplify those biases.
+Many of us already offer such *informative* review to friends and colleagues, sometimes to help prepare work for submission to peer review that will evaluate the work's worthiness for publication.
 
-To make science more objective, credible, and just, we must embrace forms of peer review that do not score works, rank works, or segregate works into accepts and rejects.
-
-<!-- Peer reviewers selected for their experience will find less familiar those works submitted by those who are new to a field and those who are underrepresented within a field, and those who do work that challenges the field's strongly-held beliefs and prejudices. They not only get lower scores, but less useful feedback. In the absence of scoring, observations that might most help the authors improve their work or help non-experts understand it are more salient than those that justify why the work needs improvement or is hard to understand. -->
-
-<!-- 
-The subjectivity with which acceptances are granted undermines their (mis)use as a signal of credibility.
-
-Legitimizing systems we know to be systemically biased in harmful, and we do this when we ignore the biases and inconsistencies of peer review. We produce CVs that list acceptances and acceptance rates. We warn the press to be cautious about results that have not been accepted for publication, even when journalists solicit more independent expert reviews than a peer review committee would.  -->
-
-<!-- Focusing on acceptance criteria will only aggravate the harms that result when we treated systemically-biased system as if they were objective, as we do when treating acceptances as a signal of the credibility and value of a research work. -->
-
-
-<!-- Because the our biases are subconscious and independent of review criteria, they cannot be corrected by improving review criteria. Acceptance decisions will always be systemically biased. -->
-
-<!-- Yet, no matter how much we work reduce the subjectivity acceptance criteria, using peer review to segregate works into accepts and rejects is, in and of itself, enough to corrupt our objectivity. -->
+Alas, newcomers and members of underrepresented groups will have less access to expert reviewers who volunteer to provide informative review. They can often only seek feedback through review by exclusive publications, which take months to respond, reject the majority of submissions, and which provide feedback written to justify those rejections.
 
 
 
+The information we share may be directed to help the work's authors, such as that which alerts them to issues they may have overlooked, identifies ways their work could unintentionally mislead, or suggests ways to clarify or otherwise improve the work.
 
+If the work's audience will have access to our reviews, we can also write to inform them. Our disinterested insights can help the audience evaluate the work's credibility and clarify matters that may be unclear to non-experts. (Some review processes may make reviews of submissions available immediately, whereas others might require authors to commit to share their reviews whenever sharing their work.)
 
-<!-- We are systemically biased to favor works by those similar to us and that support our existing beliefs, and against works from outsiders and those with conflicting beliefs. -->
+<!-- We can perform informative peer review as a courtesy, purely to help authors improve their work, or we can condition review on authors' commitment to share reviewers' feedback whenever sharing their work, ensuring the audience will have access to reviewers' independent perspective when evaluating the work's credibility.
 
+We can also direct our feedback to their eventual audience, using our external perspective to add clarity, context, and to ensure ensure readers are not misled (whether  unintentionally or otherwise). -->
 
-Specifically, we should conduct *informative* peer review, producing only written feedback to inform a work's authors and their audience. We should write feedback to help help authors improve their work and to identify issues they may have overlooked. We should provide their audience expert insights that complement the authors' by adding clarity, balance, and external perspective. To ensure the audience has access to these insights, *informative* peer review requires authors to share reviews whenever the work is shared.[^social-contract]
-<!-- Those insights, not a score or decision, should be the product preserved to stand the test of time. Such feedback is valuable when it helps -->
+While review processes that lack a *reject* option cannot keep work from being published[^neither-can-traditional-review], those that produce feedback visible to a work's audience can provide much more nuanced insights into a work's credibility than *accept* or *reject* reveal. Written feedback can differentiate extremely meticulous findings from those that are somewhat credible, those that are the glaringly wrong, and everything in between. When some of the findings in a research work are significantly more credible than others, we don't have to assign them to a common fate as we do when both must be an accept or reject.[^rejects-invisible-if-unpublished] Such nuanced reviews can help a work's audience learn why some results are more credible than others, and become more savvy in identifying such issues on their own.
+ <!-- There are no acceptances to misconstrue as blanket endorsements, leading audiences to overlook key shortcomings, or rejections to misconstrue as indictments. -->
 
-<!-- We can ensure the audience has access to reviewers' insights into a work's credibility, and their other insights, by requiring authors who submit work for informative review to commit to sharing the resulting reviews whenever they publish their work or share it with others.[^social-contract] -->
+[^neither-can-traditional-review]: FIXME
 
-When we refuse to compress work's integrity into a binary *accept* or *reject* outcome we can avoid many of the familiar hazards that result: rejections are misconstrued as indictments; acceptances are misconstrued as blanket endorsements, leading audiences to overlook works' shortcomings. Informative peer review gives us the opportunity to differentiate extremely meticulous findings from those that are somewhat credible, those that are the glaringly wrong, and everything in between. We can explain that some of the findings in a work may be significantly more credible than other findings in the same work, rather than having to assign a single outcome to the bundle.[^rejects-invisible-if-unpublished]
-
-<!-- When conducting informative peer review, we do not compress a work's integrity into a binary outcome. We do not produce rejections that might be misconstrued as indictments. We do not produce acceptances that might be misconstrued as blanket endorsements, leading audiences to overlook works' shortcomings. Rather, we produce reviews that can differentiate the extremely meticulous findings from those that are somewhat credible, those that are the glaringly wrong, and everything in between---noting that some results may have very different credibility than others within the same work.[^rejects-invisible-if-unpublished] We can ensure the audience has access to those insights by requiring authors who submit work for informative review to commit to sharing the resulting reviews whenever they publish their work or share it with others.[^social-contract] -->
-
-Informative peer review can also help the audience of the work we review become more savvy. Reading reviewers concerns about the credibility of a result can help them recognize results that would cause similar concerns in the future, whereas when a work is rejected that audience would not have the same opportunity to learn.
-
-
-<!-- Whereas rejecting a misleading work protects its audience from being misled at most once, informative peer reviews can help their audience understand how other research might mislead them in the future. -->
-When authors can seek feedback without risk of rejection, they may be more likely to disclose their missteps, publish those disclosed missteps, and in so doing help others learn which types of mistakes are most common and learn to avoid them.
-
+**HERE**
 
 Make no mistake, this proposal is subversive to entrenched interests. But, it is in the interest of science.
 
@@ -79,6 +56,8 @@ We tally acceptances to rank each other, even though doing so reinforces systemi
 Instead of focusing on action, could transition into "beyond objectivity"
 
 -->
+
+[^amplify]: We also amplify the harms of our biases when we treat peer review as a signal of credibility and integrity of a research work, as opposed to its appeal to the subjective interests of peer reviewers. When we follow the norm of listing the research works on our CVs with the names of the exclusive publications that accepted them, and their acceptance rates, we amplify those biases.
 
 #### Conducting informative review in service to others
 
