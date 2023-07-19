@@ -20,50 +20,30 @@ Scoring research amplifies our implicit biases making us less objective. We cann
 
 It's unclear just how biased we are when reviewing works for acceptability, but the scant evidence available certainly does not suggest we are objective. In experiments by the NeuroIPS conference in 2014 and again in 2021, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as *randomness*, but doing so perpetuates a myth that harm is evenly distributed and diminishes over time. Our bias against underrepresented researchers and unpopular ideas may actually grow worse as today's peer reviews determine who survives to become tomorrow's peer reviewers.[^amplify]
 
-We can provide more objective feedback for research by reviewing it purely *informatively*, without scoring it. We can thus avoid triggering the biases that influence how we score and excise our need to provide feedback to justifies our score.
+We can provide more objective feedback for research when reviewing it without scoring it, providing feedback to inform rather than justify a score. Such *informative* review avoids activating the biases triggered by scoring.
 
-Many of us already offer such *informative* review to friends and colleagues, sometimes to help prepare work for submission to peer review that will evaluate the work's worthiness for publication.
+*Informative* review is something many of us are already accustomed to performing. Many of us review friends' and colleagues' work, often as they prepare to submit that work for inclusion in journals and conferences. To help meet those deadlines we may provide feedback in days, sometimes in as little as hours, helping them to identify problems they may have overlooked, noting wording that might mislead or confuse, and suggesting ways to clarify and improve their work and how they present it.
 
-Alas, newcomers and members of underrepresented groups will have less access to expert reviewers who volunteer to provide informative review. They can often only seek feedback through review by exclusive publications, which take months to respond, reject the majority of submissions, and which provide feedback written to justify those rejections.
+Alas, informative review is most readily available to those of us who are already well established in our field and have other insiders to call upon for help. The less fortunate may only have access to feedback through submission to conferences and journals, many of which which reject the majority of submissions, provide feedback written to justify those rejections, and take months to provide this ‘help’. When we only review outsiders' work to evaluate it for publication, and only provide informative review to those close to us, we our ‘service’ amplifies the systemic bias faced by underrepresented groups, newcomers, and other outsiders.
 
+We can start to make science at least a little more objective, just, and efficient by ensuring *author-assistive* informative peer review is as broadly accessible as peer review to evaluate whether work is worthy of publication. This would ensure a more equitable distribution of fast, helpful feedback on scientific research: feedback written to help authors rather than justify rejection; feedback that need not await a committee to reach consensus on a collection of acceptance decisions.[^pre-experimental-review] 
 
+[^pre-experimental-review]: We can also offer author-assistive review to researchers *before* they conduct their research, helping them refine their hypotheses and improve their experimental designs before they incur the risks and costs of running experiments. The current practice of rejecting experimental designs at publication time is unnecessarily wasteful and frustrating for all involved.
 
-The information we share may be directed to help the work's authors, such as that which alerts them to issues they may have overlooked, identifies ways their work could unintentionally mislead, or suggests ways to clarify or otherwise improve the work.
+Next, we can offer *audience-assistive* informative peer review, in which we direct our independent feedback to the work's audience to help prevent them from being confused or mislead. Such review allows authors seek independent scrutiny to establish their work's credibility without the biases and delays of publication review.
 
-If the work's audience will have access to our reviews, we can also write to inform them. Our disinterested insights can help the audience evaluate the work's credibility and clarify matters that may be unclear to non-experts. (Some review processes may make reviews of submissions available immediately, whereas others might require authors to commit to share their reviews whenever sharing their work.)
+Isolating scrutiny of a work's credibility from its suitability for publication is important because attempting to compress both into a binary *accept* or *reject* outcome is harmful: acceptances are misconstrued as blanket endorsements, causing readers to overlook works' shortcomings; rejections are misconstrued as indictments.
 
-<!-- We can perform informative peer review as a courtesy, purely to help authors improve their work, or we can condition review on authors' commitment to share reviewers' feedback whenever sharing their work, ensuring the audience will have access to reviewers' independent perspective when evaluating the work's credibility.
+When writing reviews to be shared with the work's audience empowers us to differentiate extremely meticulous findings from those that are somewhat credible, those that are the glaringly wrong, and everything in between. When some of the findings in a research work are significantly more credible than others, we need not assign them to a common fate.[^rejects-invisible-if-unpublished] By providing nuance we can help a work's audience learn why some results are more credible than others and become more savvy in identifying such issues on their own.
 
-We can also direct our feedback to their eventual audience, using our external perspective to add clarity, context, and to ensure ensure readers are not misled (whether  unintentionally or otherwise). -->
+We can provide audience-assistive informative peer review after work is made public, making our reviews public upon completing them, or before a work is made public on the condition that our reviews become public when the work does. Giving *all* authors the opportunity to establish the credibility of their work independent of publication review can help reduce the impact of the biases implicit in publication review. Further, making reviews public can also help make bias easier to detect and mitigate.
 
-While review processes that lack a *reject* option cannot keep work from being published[^neither-can-traditional-review], those that produce feedback visible to a work's audience can provide much more nuanced insights into a work's credibility than *accept* or *reject* reveal. Written feedback can differentiate extremely meticulous findings from those that are somewhat credible, those that are the glaringly wrong, and everything in between. When some of the findings in a research work are significantly more credible than others, we don't have to assign them to a common fate as we do when both must be an accept or reject.[^rejects-invisible-if-unpublished] Such nuanced reviews can help a work's audience learn why some results are more credible than others, and become more savvy in identifying such issues on their own.
- <!-- There are no acceptances to misconstrue as blanket endorsements, leading audiences to overlook key shortcomings, or rejections to misconstrue as indictments. -->
+Whereas publication review can reinforce knowledge asymmetries, audience-assistive feedback is designed to reduce knowledge asymmetries, reducing the knowledge gap between authors and audience.
 
-[^neither-can-traditional-review]: FIXME
-
-**HERE**
-
-Make no mistake, this proposal is subversive to entrenched interests. But, it is in the interest of science.
-
-
-Conducting scientific peer review without accepts and rejects is a subversive act because many of our scientific institutions exploit the pretense that that segregating works into accepts and rejects is service to the advancement of science.
-
-We tally acceptances to rank each other, even though doing so reinforces systemic biases.
-
-
-<!--
-
-Instead of focusing on action, could transition into "beyond objectivity"
-
--->
-
-[^amplify]: We also amplify the harms of our biases when we treat peer review as a signal of credibility and integrity of a research work, as opposed to its appeal to the subjective interests of peer reviewers. When we follow the norm of listing the research works on our CVs with the names of the exclusive publications that accepted them, and their acceptance rates, we amplify those biases.
-
-#### Conducting informative review in service to others
+[HERE]
+We can be more selective in accepting invitations to perform publication review. Is review for journal more service to a systemically biased stratification system? Would conferences be better off letting attendees choose what is worth attending rather than relying on what experts think the audience wants?.
 
 <!--  Whereas competitive forms of peer review require us to compare the subjective importance of others' research questions, informative review only asks scientists to use the same skills used to conduct and present their own research.   -->
-
-<!-- Any scientific researcher *can* and *should* perform informative peer review in service to others.  -->
 
 <!--  The skills needed to conduct informative peer review are those we use to put conduct our own research: examining others' work and sharing our insights into it for a broad audience. The skills we already use in collaborations are skills we can use to persuade authors to improve their work: explaining how revisions could improve the work and even instructions to help realize those improvements. (We should also update our reviews when authors make improvements that deserve acknowledgement.) -->
 
@@ -75,13 +55,6 @@ Conducting informative peer review allows us to serve science without the hazard
 
  <!-- We can also be kinder to our fellow reviewers when we do not have to haggle over outcomes.  -->
 
-#### Seeking informative review of our own research work
-
-One reason to seek informative review of our own research work is to increase its likelihood it will be accepted when subsequently submitted for competitive peer review. Constructive feedback from disinterested experts identifies problems and opportunities to strengthen our work. By addressing reviewers's concerns, and attaching their revised reviews (as required), we make it harder for subsequent reviewers to argue that our submission was prepared without sufficient expert input or that new concerns, not apparent to prior experts, should have been anticipated and addressed before submitting for competitive review.
-
-We can get feedback more quickly from informative review than competitive review because comparing submissions causes the bulk of the wait: reviewers must read all competing submissions, discuss them with other reviewers, and often make decisions before sharing feedback with authors. In contrast, a reviewer conducting an informative review need only read one work and may choose to share feedback without evaluating other work or awaiting others' reviews. Informative review can return feedback while our work is still fresh in our mind, not after we have begun to feel unfamiliar with what we wrote.
-
-We could even seek informative review *before* conducting experiments, receiving expert feedback on experimental designs, and improving them, before incurring unrecoverable costs and taking risks. The current practice of conducting peer review only after the experiments have already been conducted is unnecessarily wasteful and frustrating for all involved.
 
 #### xxx
 
@@ -92,12 +65,7 @@ Seeking informative review prior to submitting for selective review also serves 
 
 We chase acceptances to accumulate prestige, and tally others' acceptances to gauge their success, but these pursuits are tangential to scientific progress and often deleterious to it. When we serve on peer review committees that produce accepts and rejects, ours is the outsourced labor that allows institutions to score candidates for jobs or promotions without understanding their work. Tallying acceptances provides a veneer of objectivity, but aggregating systemically-biased outcomes only disguises our subjectivity.
 
-
-We advance science when we identify problems authors may have overlooked in their work, when we provide constructive feedback that them improve that work, and when we help others understand and evaluate the credibility of that work. Producing accepts and rejects serve a tangential purpose.
-
 Journals and conferences that brand themselves as “highly-selective” do so by increasing the ratio of rejects to accepts. Institutions screening job candidates by their acceptances, effectively outsourcing the job of reading and understanding candidates' contributions to peer review committees. Some purport this makes hiring more objective, but aggregating systemically biased outcomes does not produce objectivity, only deniability .
-
-Informative review isolates the act of evaluating the credibility or research work and improve that work from  it from  ---it does not.  Informative review protects integrity and provides expert feedback. Competitive review allows us to rank each other and supports the stratification system by which our industry evaluates scientists.
 
 Many of us will still be obligated to seek the acceptance of a *competitive* review, as career advancement often requires us to accumulate acceptances from exclusive publications and present at exclusive conferences[^reviewers-are-biased-sample]. However, we can still benefit from informative review.
 
