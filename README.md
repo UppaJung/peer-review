@@ -3,7 +3,7 @@
 
 <!-- Concepts lost
    Authors incentives
-   Writing for audience
+   Fashion show
 -->
 
 The most valuable forms of scientific peer review do not require us to score others' work, rank it, or decide whether it is worthy of publication. We can make science more efficient, objective, and just by broadening access to scoreless peer review
