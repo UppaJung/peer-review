@@ -41,8 +41,7 @@ To make progress on reforming peer review we need to disentangle the goals of en
 
 ---
 
-Stuart Schechter wrote this article with the inspiration and help of many (some noted [here](./Acknowledgements.md)). You can follow him at [@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist).
-
+Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist)) wrote this with suggestions and feedback from  [Joseph Bonneau](https://jbonneau.com/), [Sauvik Das](https://www.hcii.cmu.edu/people/sauvik-das). [Mary L. Gray](https://marylgray.org/), [Cormac Herley](https://cormac.herley.org/), [Jon Howell](https://research.vmware.com/researchers/jon-howell), and [Michael D. Smith](https://seas.harvard.edu/person/michael-smith).
 
 [^anonymity]: The corrupting influence of power to score others' work can be compounded when we exercise that power anonymously. Audience-assistive peer review can performed anonymously, but there may be less reason to when reviews do not produce scores or outcomes.
 
