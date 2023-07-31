@@ -1,14 +1,9 @@
 # What We Each Can Do to Fix Peer Review
 <!-- # Rejecting *Reject* in Scientific Peer Review -->
 
-<!-- Concepts lost
-   Fashion show
--->
-
 The most objective and scientifically valuable forms of peer review do not require us to score others' research work, rank it, or decide whether it is worthy of publication. Yet, the most broadly available form of peer review, publication review, makes scoring central to the detriment of objectivity. <!-- We can make each make science more objective, equitable, and efficient by making ourselves at least as accessible to conduct *scoreless* peer review as we are for publication review. --> Reforming peer review may seem like a collective-action problem, but it need not be: any one of us can make science more objective, equitable, and efficient by making ourselves as available to conduct *scoreless* peer review as we are for publication review.
 
 Scoring detracts from objectivity because it amplifies our implicit biases: we are predisposed to appreciate works that are familiar in approach, language, and style to our own work; we are predisposed to trust results that confirm our existing beliefs and hopes. Scoring requires us to quantify our sense of how much the work should be appreciated, trusted, or otherwise valued, which we cannot do in isolation of our biases. These biases can then propagate from our scores to our written feedback. Even if we take pains to be objective, such as by ensuring our written feedback is strictly factual, we can only report a small fraction of the facts we observe, and facts will seem more salient when they confirm the fairness of our scoring intentions. 
-<!-- Newcomers, underrepresented groups, and other outsiders may not only get lower scores, but worse feedback. -->
 
 We do not know the extent to which our biases influence our peer review scores, decisions, and feedback, but the scant evidence available certainly does not suggest that we are objective. In experiments by the NeuroIPS conference in 2014 and again in 2021, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as ‘*randomness*’, but doing so is unscientific and harmful, perpetuating the assumption that our inconsistency is unbiased (uniformly distributed) and diminishes in impact over time and scale. The word ‘randomness’ implicitly rejects the possibility of systemic biases, such as those against underrepresented researchers and unpopular ideas, which grow worse as today's peer reviews determine who survives to become tomorrow's peer reviewers.[^selection-of-scientists]
 
@@ -32,25 +27,17 @@ In addition to making ourselves more available as scoreless peer reviewers, we s
 
 Dedicating time to scoreless peer review may take time away from publication review. As more work is submitted for publication having already benefited from scoreless review, with its credibility already evaluated, less of that work may need to be rejected. Consider that work submitted to review committees with acceptance rates of 25% will require an expectation of four submissions to be published, consuming the time of four sets of reviewers. Increasing the probability of acceptance to 34% reduces the expected number of submissions by one (from 4 to 3), removing the expected review workload by an entire set of reviewers. Further, if publication review is no longer needed to establish the credibility of work, more conferences could forgo using peer reviewers to choose which works they think attendees will want to see and, instead, ask prospective attendees which works they actually want to see.
 
-<!-- We may find it easier to reckon with concerns about whether publication review is a fair way to evaluate people. -->
-
 So long as those who employ scientists use recognition from journal and conference publications to make hiring and promotion decisions, many of us will feel pressured to submit our work for publication review and to serve as publication reviewers. Reforming peer review has been a challenging collective-action problem because most research works have at least one author whose career advancement requires such recognition.
 
-If a solution is possible, it likely requires us to disentangle the competing goals we currently attribute to peer review: helping authors improve their work, establishing a work's credibility, and evaluating whether the work is worthy of recognition. At a minimum, we can broaden access to the scientific functions of peer review by broadening access to author- and audience-assistive review. But perhaps, in doing do, we can also undermine the pretense that evaluating research for recognition is in any way essential to, or even compatible with, the progress of science.[^fashion-shows]
-
-
-<!-- By serving the scientific functions of peer review outside of publication review, we can chip away at the scientific veneer that justifies the use of our time to publication review to distribute attention and career advancement. -->
+If a solution is possible, it likely requires us to disentangle the competing goals we currently attribute to peer review: helping authors improve their work, establishing a work's credibility, and evaluating whether the work is worthy of recognition. At a minimum, we can broaden access to the scientific functions of peer review by broadening access to author- and audience-assistive review. But perhaps, in doing do, we can also undermine the pretense that evaluating research for recognition is in any way essential to, or even compatible with, the progress of science.
+<!-- [^fashion-shows] -->
 
 
 ---
 
 Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.social/@MildlyAggrievedScientist)) wrote this with suggestions and feedback from  [Joseph Bonneau](https://jbonneau.com/), [Sauvik Das](https://www.hcii.cmu.edu/people/sauvik-das). [Mary L. Gray](https://marylgray.org/), [Cormac Herley](https://cormac.herley.org/), [Jon Howell](https://research.vmware.com/researchers/jon-howell), [Michael D. Smith](https://seas.harvard.edu/person/michael-smith), and [Erin Walk](https://erinwalk.org/).
 
-
 [^evaluating-experiments-by-their-outcomes]: Evaluating experiments by their outcomes encourages authors to highlight those hypotheses that yielded statistically significant results than those that didn't, hypothesize potentially significant results only after seeing data [(HARKing)](./Recommended-Readings.md#harking-hypothesizing-after-the-results-are-known), and to engage in [other irresponsible scientific practices](./Recommended-Readings.md#rein-in-the-four-horsemen-of-irreproducibility).
-<!-- ALREADY in ^selection-of-scientists That poor scientific practices increase one's chance of publication has been said to cause the [natural selection of bad science](https://royalsocietypublishing.org/doi/10.1098/rsos.160384) and, by implication, the natural selection of bad scientists. -->
-<!-- to elide details reviewers might find uninteresting (even if needed to replicate the experiment), to inflate their contributions, to dedicate more space and attention to -->
-<!-- <p>Authors may be tempted to aggrandize their research to look more important. In some fields (including [mine](./Notes.md#speculation)), researchers are even pressured by reviewers to go beyond factual reporting of results to speculate about their research's impact and importance.</p> -->
 
 [^consistency]: [The NeurIPS 2021 Consistency Experiment](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/) followed the earlier experiment at [NIPS 2014](https://nips.cc/Conferences/2014/CallForPapers) (the conference would be renamed NeurIPS). The 2014 call for papers stated “submissions will be refereed on the basis of technical quality, novelty, potential impact, and clarity” whereas the 2021 call for papers listed no evaluation criteria.
 
@@ -76,4 +63,4 @@ Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.s
 [^information-asymmetries]: Whereas publication review can reinforce knowledge asymmetries, audience-assistive feedback is designed to reduce knowledge asymmetries, reducing the knowledge gap between authors and audience.
 
 
-[^fashion-shows]: Treating publication review as *scientific service* requires us to believe that what we are doing is fundamentally different than those who select which fashions to display on a runway. 
+<!-- [^fashion-shows]: Treating publication review as *scientific service* requires us to believe that what we are doing is fundamentally different from those who select which fashions to display on a runway.  -->
