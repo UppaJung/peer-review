@@ -28,7 +28,7 @@ We can also use scoreless peer review to help audiences evaluate the credibility
 
 Audience-assistive review has other benefits for us as authors. It frees us to write for our audience, who will ultimately judge our work, rather than to appeal to reviewers.[^written-for-reviewers] We can get feedback more quickly when reviewers do not have to coordinate on final scoring outcomes (though when reviewing, we may still want to update our feedback as we learn from others' insights).
 
-We all stand to benefit if we can vet each others's research more quickly and objectively, and we will reduce the disadvantage that under-represented groups and outsiders have in establishing the credibility of their work through publication review.
+We all stand to benefit if we can vet each others' research more quickly and objectively, and we will reduce the disadvantage that under-represented groups and outsiders have in establishing the credibility of their work through publication review.
 
 We should each make ourselves at least as accessible for *audience-assistive* peer review as we are for publication review. Put more simply, we should be as available to help others understand other scientists' work as we are to decide which work they get to read. 
 
@@ -87,4 +87,4 @@ Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.s
 
 [^author-only]: If you are not willing to perform both author- and audience-assistive peer review, I'd suggest "available to conduct author-assistive peer review" or "available to conduct audience-assistive peer review".
 
-[^fees]: Peer review as unpaid (volunteer) service has been a norm in much of the scientific community. Yet, author-assistive reviews are often performed colleagues at the same employer, or collaborators who are on the same grants, and so are often implicitly paid. We need to be understanding that reviewers may reasonably expect to be paid when reviewing industrial research and research by authors who are as well compensated, if not better compensated, than the reviewer is.
+[^fees]: Peer review as unpaid (volunteer) service has been a norm in much of the scientific community. Yet, author-assistive reviews are often performed by colleagues at the same employer, or collaborators who are on the same grants, and so are often implicitly paid. We need to be understanding that reviewers may reasonably expect to be paid when reviewing industrial research and research by authors who are as well compensated, if not better compensated, than the reviewer is.
