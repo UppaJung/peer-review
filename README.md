@@ -49,9 +49,9 @@ Introducing scoreless peer review cannot address all the biases and harms of pub
 
 Publication review is service to the industry of science. While *science* is a collective search for truth, the *industry of science* is fiercely competitive. Our scientific institutions compete for prestige, and offer jobs stratified into even more tiers of prestige. Industrial science uses publications as signals of prestige, using them to rank us for hiring and promotions. Most of us have no choice but to submit our work for publication review because we, or are co-authors, must publish in the "right places" to survive in this industry.
 
-When we conduct scoreless peer review, we isolate peer review in service to *science* from peer review in service to the *industry of science*. Scoreless peer review empowers us serve authors and their audience without ranking each other and perpetuating historical inequities.
+When we conduct scoreless peer review, we isolate peer review in service to *science* from peer review in service to the *industry of science*. Scoreless peer review empowers us serve authors and their audience without deciding which research is more fashionable, without ranking each other, and without perpetuating historical inequities.
 
-When we conduct scoreless peer review, we undermine the very pretense that publication review necessary to the advancement of science. We demonstrate that science can be a cooperative quest for truth, rather than a zero-sum quest for recognition. We show what science could be, if the industry of science were built around the goal of working together to further knowledge.
+When we conduct scoreless peer review, we undermine the very pretense that publication review advances science. We demonstrate that science can be a cooperative quest for truth, rather than a zero-sum quest for recognition. We show what science could be, if we spent more time furthering our collective contributions to knowledge, and less time deciding which of those contributions is fashionable enough to display on science's runways.
 
 ---
 
