@@ -14,7 +14,7 @@ And, *scoreless* peer review can serve the two *scientific* purposes we most oft
 
 #### Author-assistive review
 
-When we scrutinize the work of students and colleagues catch errors, offer clarifications, and suggest improvements, we are informally conducting *author-assistive* peer review. Even when we are seeking feedback in preparation for publication review, we rarely ask for scores. The goal is to help the authors make their work better.
+When we scrutinize the work of students and colleagues to catch errors, offer clarifications, and suggest improvements, we are informally conducting *author-assistive* peer review. Even when we are seeking feedback in preparation for publication review, we rarely ask for scores. The goal is to help the authors make their work better.
 
 Alas, there is unintended harm in the social norm of offering author-assistive review only to those close to us, and reviewing everyone else's work primarily through publication review: author-assistive review far less accessible than publication review. A field's insiders have fast access to constructive feedback, whereas outsiders may wait months longer only to receive feedback that is written to justify a rejection outcome rather than to genuinely help them make the work better.[^mostly-rejections]
 
@@ -28,7 +28,7 @@ We can also use scoreless peer review to help audiences evaluate the credibility
 
 Audience-assistive review has other benefits for us as authors. It frees us to write for our audience, who will ultimately judge our work, rather than to appeal to reviewers.[^written-for-reviewers] We can get feedback more quickly when reviewers do not have to coordinate on final scoring outcomes (though when reviewing, we may still want to update our feedback as we learn from others' insights).
 
-We all stand to benefit if research an be vetted more quickly and objectively, and we will reduce the disadvantage that under-represented groups and outsiders have in establishing the credibility of their work through publication review.
+We all stand to benefit if we can vet each others's research more quickly and objectively, and we will reduce the disadvantage that under-represented groups and outsiders have in establishing the credibility of their work through publication review.
 
 We should each make ourselves at least as accessible for *audience-assistive* peer review as we are for publication review. Put more simply, we should be as available to help others understand other scientists' work as we are to decide which work they get to read. 
 
@@ -49,7 +49,7 @@ Introducing scoreless peer review cannot address all the biases and harms of pub
 
 Publication review is service to the industry of science. While *science* is a collective search for truth, the *industry of science* is fiercely competitive. Our scientific institutions compete for prestige, and offer jobs stratified into even more tiers of prestige. Industrial science uses publications as signals of prestige, using them to rank us for hiring and promotions. Most of us have no choice but to submit our work for publication review because we, or are co-authors, must publish in the "right places" to survive in this industry.
 
-When we conduct scoreless peer review, we isolate peer review in service to *science* from peer review in service to the *industry of science*. Scoreless peer review empowers us serve authors and their audience without deciding which research is more fashionable, without ranking each other, and without perpetuating historical inequities.
+When we conduct scoreless peer review, we isolate peer review in service to *science* from peer review in service to the *industry of science*. Scoreless peer review empowers us to serve authors and their audience without deciding which research is more fashionable, without ranking each other, and without perpetuating historical inequities.
 
 When we conduct scoreless peer review, we undermine the very pretense that publication review advances science. We demonstrate that science can be a cooperative quest for truth, rather than a zero-sum quest for recognition. We show what science could be, if we spent more time furthering our collective contributions to knowledge, and less time deciding which of those contributions is fashionable enough to display on science's runways.
 
