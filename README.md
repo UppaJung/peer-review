@@ -12,7 +12,7 @@ The only sure way to eliminate the bias scoring introduces is to eliminate scori
 
 And, *scoreless* peer review can serve the two *scientific* purposes we most often use to motivate why we review others' work: helping authors to improve their research work and helping their audience understand their work and evaluate its credibility. I will refer to reviewing for these purposes as *author-assistive* review and *audience-assistive* review.
 
-#### Author-assistive review
+### Author-assistive review
 
 When we scrutinize the work of students and colleagues to catch errors, offer clarifications, and suggest improvements, we are informally conducting *author-assistive* peer review. Even when we are seeking feedback in preparation for publication review, we rarely ask for scores. The goal is to help the authors make their work better.
 
@@ -20,7 +20,7 @@ Alas, there is unintended harm in the social norm of offering author-assistive r
 
 If we want to ensure our well-intentioned service to others does not unwittingly disadvantage underrepresented groups and other outsiders, we should each make ourselves at least as accessible for author-assistive peer review as we are for publication review.[^pre-experimental-review] Put more simply, we should be as available to help others as to judge them. (I'll explain just how easy this is below in the section titled "[What You Can Do <u>Right Now</u>](#rightnow)".)
 
-#### Audience-assistive review
+### Audience-assistive review
 
 We can also conduct scoreless peer review to help audiences evaluate the credibility of research work, and we should, as publication review is poorly suited to this function. Publications' acceptance criteria include factors such as ‘novelty’ and ‘significance’ that are not only unrelated to credibility, but subvert it by rewarding unscientific practices and chance results.[^evaluating-experiments-by-their-outcomes] Acceptances are too often misconstrued as endorsements that lead readers to overlook key limitations. Publication review rarely detects outright fraud, but if often legitimizes fraudulent work. And, since publication review requires scoring, under-represented groups and other outsiders will be disadvantaged in establishing their work's credibility.
 
@@ -33,17 +33,17 @@ We all stand to benefit if we can vet each others' research more quickly and obj
 We should each make ourselves at least as accessible for *audience-assistive* peer review as we are for publication review. Put more simply, we should be as available to help others understand other scientists' work as we are to decide which work they get to read. 
 
 <a id="rightnow"></a>
-#### What You Can Do <u>Right Now</u> to Advance Scoreless Review
+### What You Can Do <u>Right Now</u> to Advance Scoreless Review
 
 We each have a limited precious time to dedicate to service, and we each have time decide how much time to spend scoring others and how much time to spend assisting others.[^time] If you believe you should make ourselves at least as accessible for scoreless peer review as you are for publication review, you can take action right now. You don't need to wait for anyone else to agree. You don't need to wait for others to create and invite you to scoreless peer review panels.
 
-**Simply update your webpage to signal you are "available to conduct scoreless peer review".** You can update your blog or social media profile if you don't have a personal webpage. (Mine is [here](https://www.stuartschechter.org/about#scoreless-peer-review).) You can prefix the above phrase with conditionals like "try to be", or follow the above phrase with conditionals such as "when possible", but use "available to conduct scoreless peer review" to be discoverable via a web search (e.g. via [Google](https://www.google.com/search?q=%22available+to+conduct+scoreless+peer+review%22) or [Bing](https://www.bing.com/search?q=%22available+to+conduct+scoreless+peer+review%22)).[^author-only]  You can add conditions, such as which topic areas you feel qualified to review, which you are interested in reviewing, and which you do not want to review.[^fees]
+**Just say that you are "available to conduct scoreless peer review"** on your webpage, blog, or social media profile. You can prefix the above phrase with conditionals like that you "*try to be*" available, or follow the above phrase with conditionals, but use "available to conduct scoreless peer review" to be discoverable via a web search (e.g. via [Google](https://www.google.com/search?q=%22available+to+conduct+scoreless+peer+review%22) or [Bing](https://www.bing.com/search?q=%22available+to+conduct+scoreless+peer+review%22)).[^author-only]  You can add conditions, such as which topic areas you feel qualified to review, which you are interested in reviewing, and which you do not want to review.[^fees] (I do so [here](https://www.stuartschechter.org/about#scoreless-peer-review).)
 
 Signalling your availability should not only be easy to do, but it should also be easy to undo if you change your mind. And it will have immediate impact. Even if none of your peers join you, authors who may not otherwise have access to assistive review will now be able to find you. You now at least have the option to help. Some of those you help may eventually become peers. Some may already be your peers and may consider making themselves available for scoreless review. If enough of us act individually we will eventually have enough reviewers for scoreless review panels, making it even easier for authors to find scoreless reviewers.
 
 [^time]: If you are worried about the time required, consider that scoreless peer review could actually reduce all of our workloads. As more work is submitted for publication having already benefited from scoreless review, with its credibility already evaluated, less of that work may need to be rejected. Consider that work submitted to review committees with acceptance rates of 25% will require an expectation of four submissions to be published, consuming the time of four sets of reviewers. Increasing the probability of acceptance to 34% reduces the expected number of submissions by one (from 4 to 3), removing the expected review workload by an entire set of reviewers. Further, if publication review is no longer needed to establish the credibility of work, more conferences could forgo using peer reviewers to choose which works they think attendees will want to see and, instead, ask prospective attendees which works they actually want to see.
 
-#### Scoreless Peer Review Can Help Fix Publication Review
+### Scoreless Peer Review Can Help Fix Publication Review
 
 While the *endeavor of science* is a collective search for truth, the *industry of science* is fiercely competitive and its institutions serve their own interests. Journals and conferences compete prestige to garner subscriptions and attendance. Research institutions compete for prestige to hire talent. Publications review allocates prestige. It is service to the industry of science, often at a cost to the endeavor of science. But, for those of us who live within this system, it is all too easy to conflate the industry of science and the endeavor of science. This is how we have come to view rejecting the great majority of others' scientific research as "service".
 
@@ -81,10 +81,7 @@ Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.s
 [^selection-of-scientists]: In [The natural selection of bad science](https://royalsocietypublishing.org/doi/10.1098/rsos.160384), Smaldino and McElreath argue that  that publication review also favors scientists whose “poor” methods “produce the greatest number of publishable results” which leads to “increasingly high false discovery rates”. 
 
 [^information-asymmetries]: Whereas publication review can reinforce knowledge asymmetries, audience-assistive feedback is designed to reduce knowledge asymmetries, reducing the knowledge gap between authors and audience.
-
-
-<!-- [^fashion-shows]: Treating publication review as *scientific service* requires us to believe that what we are doing is fundamentally different from those who select which fashions to display on a runway.  -->
-
+ 
 [^author-only]: If you are not willing to perform both author- and audience-assistive peer review, I'd suggest "available to conduct author-assistive peer review" or "available to conduct audience-assistive peer review".
 
 [^fees]: Peer review as unpaid (volunteer) service has been a norm in much of the scientific community. Yet, author-assistive reviews are often performed by colleagues at the same employer, or collaborators who are on the same grants, and so are often implicitly paid. We need to be understanding that reviewers may reasonably expect to be paid when reviewing industrial research and research by authors who are as well compensated, if not better compensated, than the reviewer is.
