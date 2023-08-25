@@ -9,7 +9,6 @@ Despite the hazards of scoring, the principal function of the most widely-availa
 The scant evidence available certainly does not suggest that we assign *accepts* and *rejects* objectively. In experiments by the NeurIPS conference in 2014 and again in 2021, half of the works selected for acceptance by one set of peer reviewers were rejected by parallel sets of reviewers.[^consistency] It's fashionable to refer to this inconsistency as *randomness*, but doing so presumes that our reviewing errors are unbiased and that their impact diminishes over the span of a career.[^delegitimizes] The impact of biases can grow over time, becoming systemic. For example, a bias against underrepresented researchers, or against those willing to challenge popular ideas, would reduce the likelihood that young scientists in these categories to survive long enough in their careers to become reviewers themselves.[^selection-of-scientists]
 
 Scoring is surely not the only source of bias when we review others' work, but it is a source we can eliminate. If we will never assign a score, we should have no temptation to bias our feedback to justify a score.
-<!-- Removing a source of bias can make peer review objective, equitable, and just. -->
 
 Moreover, *scoreless* peer review can serve the two *scientific* functions we most often ascribe to peer review: to help the work's authors improve their research work, and to help the audience of a research work understand it and evaluate its credibility.[^attention] I will refer to these functions as *author-assistive* and *audience-assistive* review.
 
@@ -30,7 +29,6 @@ Scoreless *audience-assistive peer review* enlists reviewers to provide feedback
 We should be as open to helping the audience of a work understand it as we are to deciding whether that audience will find the work in an exclusive publication or on a preprint server. We should each make ourselves at least as accessible for scoreless audience-assistive peer review as we are for publication review. 
 
 <a id="rightnow"></a>
-<!-- ### What You Can Do (Right Now!) -->
 ### How You Can Assist (Right Now!)
 
 You can help make science more objective, equitable, and just by making yourself at least as available for scoreless peer review as you are for publication review. You can do this right now, on your own, without waiting for others to declare a consensus or to offer you a seat on a scoreless review panel.
@@ -48,8 +46,6 @@ Many of us have no choice but to submit work for publication review because univ
 Scoreless peer review is intentionally *not* a replacement for publication review because publication review serves functions that we may not want to replace.
 
 Rather, scoreless peer review provides authors an alternative to publication review when we need help to improve our research work, or to help our audience evaluate its credibility, without seeking recognition or prestige. It provides an alternative form of reviewing service, empowering us to assist others without producing scores and becoming complicit in how those scores will be used. Through such service, we can undermine the pretense that scoring research is service to the endeavor of science and correct the misconception that *accepted* means *credible*.
-
-<!-- Does this fix publication review? It's like fixing a dog. It will still bite, but we may hope to diminish it's ability to cause harm down the line. -->
 
 ---
 
@@ -103,3 +99,5 @@ Stuart Schechter ([@MildlyAggrievedScientist@mastodon.social](https://mastodon.s
 [^time]: We each have limited precious time to dedicate to service, and we each have to decide how much time to spend scoring others and how much time to spend assisting others. If you are worried about the time required, consider that scoreless peer review could actually reduce all of our workloads. As more work is submitted for publication having already benefited from scoreless review, with its credibility already evaluated, less of that work may need to be rejected. Consider that work submitted to review committees with acceptance rates of 25% will require an expectation of four submissions to be published, consuming the time of four sets of reviewers. Increasing the probability of acceptance to 34% reduces the expected number of submissions by one (from 4 to 3), removing the expected review workload by an entire set of reviewers. Further, if publication review is no longer needed to establish the credibility of work, more conferences could forgo using peer reviewers to choose which works they think attendees will want to see and, instead, ask prospective attendees which works they actually want to see.
 
 [^hiring]: Those universities and research labs could make hiring and promotion decisions without examining where work is published without much disruption. They could still use letters of support from others in the candidates' field, read the scientific discourse that comments on and cites the candidates' research, read the candidates' research itself, and/or watch the candidate present their research. This would shift accountability for any bias closer to those making the hiring decisions, hopefully raising awareness of it.
+
+<!-- Does this fix publication review? It's like fixing a dog. It will still bite, but we may hope to diminish it's ability to cause harm down the line. -->
