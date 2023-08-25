@@ -43,11 +43,13 @@ Your action will have near-immediate impact.[^crawl] Authors who may not otherwi
 
 ### Fixing Publication Review
 
-Scoreless peer review alone cannot fix all that is wrong with how the industry of science uses peer review, especially publication review. Many of us have no choice but to submit work for publication review because universities and research labs make hiring and promotion decisions based on where our work is published.[^hiring] This not only shifts labor from hiring committees to publication-review committees, but it also shifts the moral and legal responsibility for subjective criteria used to score research and the biases of those doing the scoring. It repackages the subjective opinions of the senior members of a field into objective-looking statistics.
+Many of us have no choice but to submit work for publication review because universities and research labs make hiring and promotion decisions based on where our work is published.[^hiring] This not only shifts labor from hiring committees to publication-review committees, but it also shifts the moral and legal responsibility for subjective criteria used to score research and the biases of those doing the scoring. It repackages the subjective opinions of the senior members of a field into objective-looking statistics.
 
-Scoreless peer review is intentionally *not* a replacement for publication review because publication review serves functions that should not be replaced.
+Scoreless peer review is intentionally *not* a replacement for publication review because publication review serves functions that we may not want to replace.
 
-Rather, scoreless peer review provides authors an alternative to publication review when we need helping to improve our research work, or to help our audience evaluate its credibility, without seeking recognition or prestige. It provides an alternative form of reviewing service, empowering us to assist others without producing scores and becoming complicit in how those scores will be used. It can undermine the pretense that we are serving the endeavor of science when we evaluating whether work is worthy of recognition, when we are actually serving the industry of science.
+Rather, scoreless peer review provides authors an alternative to publication review when we need help to improve our research work, or to help our audience evaluate its credibility, without seeking recognition or prestige. It provides an alternative form of reviewing service, empowering us to assist others without producing scores and becoming complicit in how those scores will be used. Through such service, we can undermine the pretense that scoring research is service to the endeavor of science and correct the misconception that *accepted* means *credible*.
+
+<!-- Does this fix publication review? It's like fixing a dog. It will still bite, but we may hope to diminish it's ability to cause harm down the line. -->
 
 ---
 
