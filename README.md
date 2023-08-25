@@ -47,8 +47,7 @@ Scoreless peer review alone cannot fix all that is wrong with how the industry o
 
 Scoreless peer review is intentionally *not* a replacement for publication review because publication review serves functions that should not be replaced.
 
-Rather, scoreless peer review provides authors an alternative to publication review for scientists seeking help improving their work their work, or establishing credibility with their audience, without seeking recognition or prestige. It provides reviewers an alternative form of service, allowing them to assist others, without producing scores and becoming complicit in how those scores will be used. It undermines the pretense that evaluating whether work is worthy of recognition is service to the endeavor science, as opposed to the industry of science.
-
+Rather, scoreless peer review provides authors an alternative to publication review when we need helping to improve our research work, or to help our audience evaluate its credibility, without seeking recognition or prestige. It provides an alternative form of reviewing service, empowering us to assist others without producing scores and becoming complicit in how those scores will be used. It can undermine the pretense that we are serving the endeavor of science when we evaluating whether work is worthy of recognition, when we are actually serving the industry of science.
 
 ---
 
